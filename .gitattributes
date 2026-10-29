@@ -1,0 +1,11 @@
+* text=auto
+*.md text eol=crlf
+*.json text eol=crlf
+*.py text eol=lf
+*.yml text eol=lf
+.gitignore text eol=lf
+.gitattributes text eol=lf
+
+# 导出资源保留字节和哈希，Git 不作换行转换。
+assets/** -text
+source/** -text

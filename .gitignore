@@ -1,0 +1,28 @@
+# 不分发字体与游戏资源配置。
+*.meta.json
+/assets/files/fonts/
+*.[tT][tT][fF]
+*.[oO][tT][fF]
+*.[tT][tT][cC]
+*.[oO][tT][cC]
+*.[wW][oO][fF][fF]
+*.[wW][oO][fF][fF]2
+*.[eE][oO][tT]
+*.[pP][fF][aA]
+*.[pP][fF][bB]
+*.[fF][oO][nN]
+*.[fF][nN][tT]
+
+# 本地审阅与临时文件。
+/crowdin.yml
+/translations/
+/licenses/
+/audit/
+/tools/
+/tests/
+/docs/字体许可对应表.md
+/artifacts/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
