@@ -11987,7 +11987,7 @@ herramienta superior {0}
 ninguna carta seleccionada
 
 [A11Y_COOLDOWN]
-recarga: quedan {0:0.0} segundos
+{0}% de recarga restante
 
 [A11Y_NOT_ENOUGH_SUN]
 soles insuficientes
@@ -11995,8 +11995,11 @@ soles insuficientes
 [A11Y_READY]
 lista
 
+[A11Y_CARD_UNAVAILABLE]
+no disponible
+
 [A11Y_CARD]
-casilla {0}, {1}, cuesta {2} soles, {3}
+{0}, {1}, {2} soles
 
 [A11Y_RESOURCES]
 soles {0}, monedas {1}

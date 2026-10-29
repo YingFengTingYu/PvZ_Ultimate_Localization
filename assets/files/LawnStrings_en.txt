@@ -11943,7 +11943,7 @@ top tool {0}
 no card selected
 
 [A11Y_COOLDOWN]
-cooldown: {0:0.0} seconds remaining
+{0}% cooldown remaining
 
 [A11Y_NOT_ENOUGH_SUN]
 not enough sun
@@ -11951,8 +11951,11 @@ not enough sun
 [A11Y_READY]
 ready
 
+[A11Y_CARD_UNAVAILABLE]
+unavailable
+
 [A11Y_CARD]
-slot {0}, {1}, costs {2} sun, {3}
+{0}, {1}, {2} sun
 
 [A11Y_RESOURCES]
 sun {0}, coins {1}

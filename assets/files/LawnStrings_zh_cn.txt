@@ -11910,16 +11910,19 @@ P{0}：{1}
 未选择卡片
 
 [A11Y_COOLDOWN]
-冷却剩余 {0:0.0} 秒
+{0}% 冷却
 
 [A11Y_NOT_ENOUGH_SUN]
 阳光不足
 
 [A11Y_READY]
-已就绪
+就绪
+
+[A11Y_CARD_UNAVAILABLE]
+暂不可用
 
 [A11Y_CARD]
-卡槽 {0}，{1}，需要 {2} 阳光，{3}
+{0}，{1}，{2}阳光
 
 [A11Y_RESOURCES]
 阳光 {0}，金币 {1}
