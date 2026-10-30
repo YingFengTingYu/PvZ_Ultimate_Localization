@@ -8483,8 +8483,7 @@ Esplosione di caramelle
 Licenze open source
 
 [NEW_OPTIONS_HELP_LANGUAGE]
-Scegli cinese, inglese o spagnolo per l'interfaccia.
-Riavvia per applicare la lingua. Progressi e contenuto dei livelli non cambiano.
+Scegli la lingua dell’interfaccia. Riavvia il gioco per applicare la modifica. I tuoi progressi vengono conservati.
 
 [NEW_OPTIONS_HELP_MUSICVOLUME]
 Regola la musica dallo 0% al 100%. Trascina per ascoltare la variazione.
@@ -12291,3 +12290,15 @@ Italiano
 
 [NEW_OPTIONS_LANGUAGE_RUSSIAN]
 Russo
+
+[NEW_OPTIONS_LANGUAGE_KOREAN]
+Coreano
+
+[NEW_OPTIONS_LANGUAGE_DUTCH]
+Olandese
+
+[NEW_OPTIONS_LANGUAGE_BRAZILIAN_PORTUGUESE]
+Portoghese (Brasile)
+
+[NEW_OPTIONS_LANGUAGE_SWEDISH]
+Svedese

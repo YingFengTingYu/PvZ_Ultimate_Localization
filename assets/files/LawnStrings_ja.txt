@@ -9173,8 +9173,7 @@ JSON
 オープンソースライセンス
 
 [NEW_OPTIONS_HELP_LANGUAGE]
-画面の言語を中国語・英語・スペイン語から選びます。
-言語変更は再起動で反映されます。進行状況やステージ内容は変わりません。
+ゲーム画面の言語を選択します。変更を反映するにはゲームを再起動してください。ゲームの進行状況は保持されます。
 
 [NEW_OPTIONS_HELP_MUSICVOLUME]
 BGM音量を0%～100%で調整します。スライダーを動かすと確認できます。
@@ -12981,3 +12980,15 @@ MVの歌と字幕を英語か日本語から選びます。初期設定は英語
 
 [NEW_OPTIONS_LANGUAGE_RUSSIAN]
 ロシア語
+
+[NEW_OPTIONS_LANGUAGE_KOREAN]
+韓国語
+
+[NEW_OPTIONS_LANGUAGE_DUTCH]
+オランダ語
+
+[NEW_OPTIONS_LANGUAGE_BRAZILIAN_PORTUGUESE]
+ポルトガル語（ブラジル）
+
+[NEW_OPTIONS_LANGUAGE_SWEDISH]
+スウェーデン語

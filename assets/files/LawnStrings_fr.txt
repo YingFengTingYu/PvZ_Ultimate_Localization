@@ -8482,8 +8482,7 @@ Pluie de bonbons
 Licences open source
 
 [NEW_OPTIONS_HELP_LANGUAGE]
-Choisissez le chinois, l'anglais ou l'espagnol pour l'interface.
-Redémarrez le jeu pour appliquer la langue. La progression et les niveaux restent inchangés.
+Choisissez la langue de l’interface. Redémarrez le jeu pour appliquer ce changement. Votre progression est conservée.
 
 [NEW_OPTIONS_HELP_MUSICVOLUME]
 Réglez la musique de 0% à 100%. Le curseur permet d'entendre le changement.
@@ -12290,3 +12289,15 @@ Italien
 
 [NEW_OPTIONS_LANGUAGE_RUSSIAN]
 Russe
+
+[NEW_OPTIONS_LANGUAGE_KOREAN]
+Coréen
+
+[NEW_OPTIONS_LANGUAGE_DUTCH]
+Néerlandais
+
+[NEW_OPTIONS_LANGUAGE_BRAZILIAN_PORTUGUESE]
+Portugais (Brésil)
+
+[NEW_OPTIONS_LANGUAGE_SWEDISH]
+Suédois

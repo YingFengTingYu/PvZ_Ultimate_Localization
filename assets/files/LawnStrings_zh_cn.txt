@@ -8481,8 +8481,7 @@ JSON
 开源许可
 
 [NEW_OPTIONS_HELP_LANGUAGE]
-选择游戏界面使用的语言，支持中文、英文和西班牙语。
-更改后需要重启游戏才会生效；切换语言不会清除玩家进度或改变关卡内容。
+选择游戏界面语言。更改后需要重启游戏，游戏进度会保留。
 
 [NEW_OPTIONS_HELP_MUSICVOLUME]
 调整背景音乐的音量，范围为 0% 至 100%。拖动滑块即可试听变化。
@@ -12293,3 +12292,15 @@ MV 语言
 
 [NEW_OPTIONS_LANGUAGE_RUSSIAN]
 俄语
+
+[NEW_OPTIONS_LANGUAGE_KOREAN]
+韩语
+
+[NEW_OPTIONS_LANGUAGE_DUTCH]
+荷兰语
+
+[NEW_OPTIONS_LANGUAGE_BRAZILIAN_PORTUGUESE]
+葡萄牙语（巴西）
+
+[NEW_OPTIONS_LANGUAGE_SWEDISH]
+瑞典语

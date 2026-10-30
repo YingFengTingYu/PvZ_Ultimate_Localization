@@ -8480,8 +8480,7 @@ Bonbonregen
 Open-Source-Lizenzen
 
 [NEW_OPTIONS_HELP_LANGUAGE]
-Wähle Chinesisch, Englisch oder Spanisch für die Spieloberfläche.
-Starte das Spiel nach einem Sprachwechsel neu. Fortschritt und Levelinhalte bleiben erhalten.
+Wähle die Sprache der Benutzeroberfläche. Starte das Spiel neu, um die Änderung anzuwenden. Dein Fortschritt bleibt erhalten.
 
 [NEW_OPTIONS_HELP_MUSICVOLUME]
 Regle die Hintergrundmusik zwischen 0% und 100%. Beim Ziehen hörst du die Änderung.
@@ -12288,3 +12287,15 @@ Italienisch
 
 [NEW_OPTIONS_LANGUAGE_RUSSIAN]
 Russisch
+
+[NEW_OPTIONS_LANGUAGE_KOREAN]
+Koreanisch
+
+[NEW_OPTIONS_LANGUAGE_DUTCH]
+Niederländisch
+
+[NEW_OPTIONS_LANGUAGE_BRAZILIAN_PORTUGUESE]
+Portugiesisch (Brasilien)
+
+[NEW_OPTIONS_LANGUAGE_SWEDISH]
+Schwedisch

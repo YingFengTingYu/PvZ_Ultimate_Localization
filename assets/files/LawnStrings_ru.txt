@@ -8465,8 +8465,7 @@ JSON
 Лицензии открытого ПО
 
 [NEW_OPTIONS_HELP_LANGUAGE]
-Выбери китайский, английский или испанский язык интерфейса.
-Для применения языка перезапусти игру. Прогресс и содержимое уровней не меняются.
+Выберите язык интерфейса. Перезапустите игру, чтобы применить изменение. Ваш прогресс сохранится.
 
 [NEW_OPTIONS_HELP_MUSICVOLUME]
 Настрой музыку от 0% до 100%. Перетаскивай ползунок, чтобы услышать изменение.
@@ -12273,3 +12272,15 @@ Enter: Start; Backspace: назад; Esc: обычное меню
 
 [NEW_OPTIONS_LANGUAGE_RUSSIAN]
 Русский
+
+[NEW_OPTIONS_LANGUAGE_KOREAN]
+Корейский
+
+[NEW_OPTIONS_LANGUAGE_DUTCH]
+Нидерландский
+
+[NEW_OPTIONS_LANGUAGE_BRAZILIAN_PORTUGUESE]
+Португальский (Бразилия)
+
+[NEW_OPTIONS_LANGUAGE_SWEDISH]
+Шведский

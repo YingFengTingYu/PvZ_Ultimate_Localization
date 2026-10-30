@@ -19,6 +19,10 @@ Text files are in [assets/files](../assets/files):
 | Italian | [LawnStrings_it.txt](../assets/files/LawnStrings_it.txt) |
 | Japanese | [LawnStrings_ja.txt](../assets/files/LawnStrings_ja.txt) |
 | Russian | [LawnStrings_ru.txt](../assets/files/LawnStrings_ru.txt) |
+| Korean | [LawnStrings_ko.txt](../assets/files/LawnStrings_ko.txt) |
+| Dutch | [LawnStrings_nl.txt](../assets/files/LawnStrings_nl.txt) |
+| Brazilian Portuguese | [LawnStrings_pt_br.txt](../assets/files/LawnStrings_pt_br.txt) |
+| Swedish | [LawnStrings_sv.txt](../assets/files/LawnStrings_sv.txt) |
 
 Open the file in a text editor that supports UTF-8. Each entry has an identifier followed by the text shown in the game:
 
@@ -40,7 +44,7 @@ For a new language, contact [YingFengTingYu](https://github.com/YingFengTingYu) 
 
 ## Translating images
 
-Game images and translation base assets are in [assets/resources/locales](../assets/resources/locales), grouped by language: `en-us`, `es-es`, `zh-cn`, `zh-tw`, `de-de`, `fr-fr`, `it-it`, `ja-jp`, and `ru-ru`.
+Game images and translation base assets are in [assets/resources/locales](../assets/resources/locales), grouped by language: `en-us`, `es-es`, `zh-cn`, `zh-tw`, `de-de`, `fr-fr`, `it-it`, `ja-jp`, `ru-ru`, `ko-kr`, `nl-nl`, `pt-br`, and `sv-se`.
 
 Find the image you want to change, then look for a PSD with the same name and relative folder under [source/locales](../source/locales). Where there is only a PNG, use it as a reference and keep the editable source you create. If you cannot find a matching source file, ask the maintainer before starting a large redraw.
 

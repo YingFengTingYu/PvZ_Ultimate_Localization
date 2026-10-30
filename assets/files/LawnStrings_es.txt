@@ -8554,9 +8554,7 @@ PINATA
 Licencias
 
 [NEW_OPTIONS_HELP_LANGUAGE]
-Elige entre el chino, inglés o español para cambiar el idioma del juego.
-Reinicia el juego para aplicar el cambio.
-Se conservan tu progreso y los niveles.
+Elige el idioma de la interfaz. Reinicia el juego para aplicar el cambio. Tu progreso se conserva.
 
 [NEW_OPTIONS_HELP_MUSICVOLUME]
 Ajusta la música desde aquí. Puedes arrastrar la barra entre 0 y 100%.
@@ -12370,3 +12368,15 @@ Italiano
 
 [NEW_OPTIONS_LANGUAGE_RUSSIAN]
 Ruso
+
+[NEW_OPTIONS_LANGUAGE_KOREAN]
+Coreano
+
+[NEW_OPTIONS_LANGUAGE_DUTCH]
+Neerlandés
+
+[NEW_OPTIONS_LANGUAGE_BRAZILIAN_PORTUGUESE]
+Portugués (Brasil)
+
+[NEW_OPTIONS_LANGUAGE_SWEDISH]
+Sueco
