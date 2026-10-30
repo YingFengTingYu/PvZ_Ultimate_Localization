@@ -12358,3 +12358,15 @@ Japonés
 
 [NEW_OPTIONS_HELP_MUSICVIDEOLANGUAGE]
 Elige voces y subtítulos en inglés o japonés para el videoclip. El inglés es el idioma predeterminado. Se aplica la próxima vez que abras el videoclip y no cambia el idioma de la interfaz.
+
+[NEW_OPTIONS_LANGUAGE_FRENCH]
+Francés
+
+[NEW_OPTIONS_LANGUAGE_GERMAN]
+Alemán
+
+[NEW_OPTIONS_LANGUAGE_ITALIAN]
+Italiano
+
+[NEW_OPTIONS_LANGUAGE_RUSSIAN]
+Ruso

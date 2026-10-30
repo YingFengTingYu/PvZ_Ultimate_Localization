@@ -12314,3 +12314,15 @@ Japanese
 
 [NEW_OPTIONS_HELP_MUSICVIDEOLANGUAGE]
 Choose English or Japanese vocals and subtitles for the music video. Defaults to English and applies the next time you open the MV; the interface language stays unchanged.
+
+[NEW_OPTIONS_LANGUAGE_FRENCH]
+French
+
+[NEW_OPTIONS_LANGUAGE_GERMAN]
+German
+
+[NEW_OPTIONS_LANGUAGE_ITALIAN]
+Italian
+
+[NEW_OPTIONS_LANGUAGE_RUSSIAN]
+Russian

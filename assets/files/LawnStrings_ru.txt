@@ -12261,3 +12261,15 @@ Enter: Start; Backspace: назад; Esc: обычное меню
 
 [NEW_OPTIONS_HELP_MUSICVIDEOLANGUAGE]
 Выбери английские или японские вокал и субтитры клипа. По умолчанию английские; применяется при следующем открытии клипа. Язык интерфейса не меняется.
+
+[NEW_OPTIONS_LANGUAGE_FRENCH]
+Французский
+
+[NEW_OPTIONS_LANGUAGE_GERMAN]
+Немецкий
+
+[NEW_OPTIONS_LANGUAGE_ITALIAN]
+Итальянский
+
+[NEW_OPTIONS_LANGUAGE_RUSSIAN]
+Русский

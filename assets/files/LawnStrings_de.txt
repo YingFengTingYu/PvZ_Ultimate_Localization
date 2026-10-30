@@ -12276,3 +12276,15 @@ Japanisch
 
 [NEW_OPTIONS_HELP_MUSICVIDEOLANGUAGE]
 Wähle englischen oder japanischen Gesang samt Untertiteln für das Musikvideo. Standard: Englisch. Gilt beim nächsten Öffnen des Videos; die Oberflächensprache bleibt gleich.
+
+[NEW_OPTIONS_LANGUAGE_FRENCH]
+Französisch
+
+[NEW_OPTIONS_LANGUAGE_GERMAN]
+Deutsch
+
+[NEW_OPTIONS_LANGUAGE_ITALIAN]
+Italienisch
+
+[NEW_OPTIONS_LANGUAGE_RUSSIAN]
+Russisch

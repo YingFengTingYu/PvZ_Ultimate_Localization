@@ -12278,3 +12278,15 @@ Japonais
 
 [NEW_OPTIONS_HELP_MUSICVIDEOLANGUAGE]
 Choisissez chant et sous-titres anglais ou japonais pour le clip. Anglais par défaut, appliqué au prochain lancement du clip. L'interface ne change pas.
+
+[NEW_OPTIONS_LANGUAGE_FRENCH]
+Français
+
+[NEW_OPTIONS_LANGUAGE_GERMAN]
+Allemand
+
+[NEW_OPTIONS_LANGUAGE_ITALIAN]
+Italien
+
+[NEW_OPTIONS_LANGUAGE_RUSSIAN]
+Russe
