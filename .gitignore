@@ -26,3 +26,9 @@ __pycache__/
 *.pyc
 .DS_Store
 Thumbs.db
+
+# 已停用的英雄属性与技能点图片，不再分发。
+image_heroplant_hero_icon_attack.png
+image_heroplant_hero_icon_life.png
+image_heroplant_hero_icon_velocity.png
+image_heroplant_skill_point.png
