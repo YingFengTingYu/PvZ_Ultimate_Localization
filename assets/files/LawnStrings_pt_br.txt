@@ -8311,16 +8311,16 @@ Não foi possível exportar o ZIP de saves.
 Sobre
 
 [NEW_OPTIONS_LANGUAGE_CHINESE]
-Chinês simplificado
+简体中文
 
 [NEW_OPTIONS_LANGUAGE_ENGLISH]
-Inglês
+English
 
 [NEW_OPTIONS_LANGUAGE_SPANISH]
-Espanhol
+Español
 
 [NEW_OPTIONS_LANGUAGE_TRADITIONAL_CHINESE]
-Chinês tradicional
+繁體中文
 
 [NEW_OPTIONS_LOW_LATENCY_AUDIO]
 Áudio de baixa latência
@@ -9898,6 +9898,9 @@ Aliança: chefe zumbi
 
 [COOP_ENDLESS]
 Aliança: modo infinito
+
+[COOP_SUN_PLAYER]
+J{0}
 
 [ADVICE_DOUBLE_SUN]
 Mova os dois cursores até o sol duplo para coletá-lo!
@@ -12263,32 +12266,152 @@ Zumbis no seu gramado (japonês)
 [NEW_OPTIONS_MV_LANGUAGE]
 Idioma do clipe
 
+[NEW_OPTIONS_MV_TRANSLATION]
+Mostrar tradução da letra do MV
+
 [NEW_OPTIONS_LANGUAGE_JAPANESE]
-Japonês
+日本語
 
 [NEW_OPTIONS_HELP_MUSICVIDEOLANGUAGE]
 Escolha o idioma do canto e das legendas do clipe, inglês por padrão. Vale na próxima reprodução e não altera o idioma da interface.
 
 [NEW_OPTIONS_LANGUAGE_FRENCH]
-Francês
+Français
 
 [NEW_OPTIONS_LANGUAGE_GERMAN]
-Alemão
+Deutsch
 
 [NEW_OPTIONS_LANGUAGE_ITALIAN]
 Italiano
 
 [NEW_OPTIONS_LANGUAGE_RUSSIAN]
-Russo
+Русский
 
 [NEW_OPTIONS_LANGUAGE_KOREAN]
-Coreano
+한국어
 
 [NEW_OPTIONS_LANGUAGE_DUTCH]
-Holandês
+Nederlands
 
 [NEW_OPTIONS_LANGUAGE_BRAZILIAN_PORTUGUESE]
 Português (Brasil)
 
 [NEW_OPTIONS_LANGUAGE_SWEDISH]
-Sueco
+Svenska
+
+[GAMEPAD_DEADZONE_LABEL]
+Zona morta ({0}–{1})
+
+[GAMEPAD_DEADZONE_INVALID]
+A zona morta deve estar entre {0} e {1}.
+
+[CREDITS_LYRIC_LAWN_ZOMBIE]
+Tem um zumbi no seu gramado
+
+[CREDITS_LYRIC_NO_ZOMBIES]
+Não queremos zumbis no gramado
+
+[CREDITS_LYRIC_TYPE]
+Conheço o seu tipo: alto, sombrio e morto
+
+[CREDITS_LYRIC_BITE_PETALS]
+Você quer arrancar todas as minhas pétalas a mordidas
+
+[CREDITS_LYRIC_THEN_BRAINS]
+E depois comer o cérebro
+
+[CREDITS_LYRIC_PLANTER]
+de quem me plantou aqui
+
+[CREDITS_LYRIC_SUNFLOWER_SEE]
+Sou só um girassol, mas veja
+
+[CREDITS_LYRIC_INFANTRY]
+como dou energia a uma infantaria inteira
+
+[CREDITS_LYRIC_LIKE_BRAINS]
+Você gosta do sabor de cérebros
+
+[CREDITS_LYRIC_DISLIKE_ZOMBIES]
+Nós não gostamos de zumbis
+
+[CREDITS_LYRIC_REEVALUATE]
+Talvez seja hora de repensar
+
+[CREDITS_LYRIC_FOOD_PLATE]
+Sei que você tem muita comida no prato
+
+[CREDITS_LYRIC_CHOLESTEROL]
+Cérebros são cheios de colesterol
+
+[CREDITS_LYRIC_DEAD]
+Você está morto, então tanto faz, mas
+
+[CREDITS_LYRIC_SOLAR_POWER]
+Vamos usar esta energia solar
+
+[CREDITS_LYRIC_LAWN_DEFENSE]
+para defender o gramado a qualquer hora
+
+[CREDITS_LYRIC_ZOMBIES_ARRIVED]
+Os zumbis chegaram
+
+[CREDITS_LYRIC_ZOMBIES_LEFT]
+Os zumbis foram embora
+
+[CREDITS_LYRIC_SCARY_SKELETONS]
+Zumbis são esqueletos assustadores
+
+[CREDITS_LYRIC_TAKE_PETALS]
+Eles querem arrancar todas as pétalas
+
+[CREDITS_LYRIC_THEN_HEAD]
+E depois querem
+
+[CREDITS_LYRIC_EAT_IT]
+comer a cabeça
+
+[CREDITS_LYRIC_JUST_SUNFLOWER]
+Sou só um girassol
+
+[CREDITS_LYRIC_STRONG]
+Mas sou forte
+
+[CREDITS_LYRIC_BACKYARD]
+Quero brincar no quintal
+
+[CREDITS_LYRIC_STOP_EATING]
+Parem de comer cabeças
+
+[CREDITS_LYRIC_FIGHT_SOLAR]
+Vou lutar com energia solar
+
+[CREDITS_LYRIC_SAVE_PLANTS]
+para proteger as plantas
+
+[CREDITS_LYRIC_FOOTBALL]
+Eu jogava futebol americano
+
+[CREDITS_LYRIC_CONE]
+Cones protegem minha cabeça
+
+[CREDITS_LYRIC_SCREEN_DOOR]
+Tenho uma porta de tela como escudo
+
+[CREDITS_LYRIC_TRICYCLE]
+Gosto do seu triciclo
+
+[CREDITS_LYRIC_BUTTER]
+Tem manteiga grudada na minha cabeça
+
+[CREDITS_LYRIC_EAT_BRAINS]
+Vou comer o seu cérebro!
+
+[CREDITS_LYRIC_HELMET]
+Coloquei um capacete
+
+[CREDITS_LYRIC_HOLD_SCREEN_DOOR]
+Também trouxe uma porta de tela
+
+[CREDITS_LYRIC_GIVE_TRICYCLE]
+Me dá esse triciclo

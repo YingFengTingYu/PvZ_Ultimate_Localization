@@ -8309,16 +8309,16 @@ Kan de opslag-ZIP niet exporteren.
 Over
 
 [NEW_OPTIONS_LANGUAGE_CHINESE]
-Vereenvoudigd Chinees
+简体中文
 
 [NEW_OPTIONS_LANGUAGE_ENGLISH]
-Engels
+English
 
 [NEW_OPTIONS_LANGUAGE_SPANISH]
-Spaans
+Español
 
 [NEW_OPTIONS_LANGUAGE_TRADITIONAL_CHINESE]
-Traditioneel Chinees
+繁體中文
 
 [NEW_OPTIONS_LOW_LATENCY_AUDIO]
 Audio met lage vertraging
@@ -9896,6 +9896,9 @@ Verbond: zombie-eindbaas
 
 [COOP_ENDLESS]
 Verbond: eindeloos
+
+[COOP_SUN_PLAYER]
+S{0}
 
 [ADVICE_DOUBLE_SUN]
 Plaats beide cursors op het dubbele zonlicht om het op te pakken!
@@ -12261,32 +12264,152 @@ Zombies op je gazon (Japans)
 [NEW_OPTIONS_MV_LANGUAGE]
 Taal muziekvideo
 
+[NEW_OPTIONS_MV_TRANSLATION]
+Vertaling van MV-songtekst tonen
+
 [NEW_OPTIONS_LANGUAGE_JAPANESE]
-Japans
+日本語
 
 [NEW_OPTIONS_HELP_MUSICVIDEOLANGUAGE]
 Kies de zang- en ondertiteltaal van de muziekvideo, standaard Engels. Werkt bij de volgende weergave en verandert de interfacetaal niet.
 
 [NEW_OPTIONS_LANGUAGE_FRENCH]
-Frans
+Français
 
 [NEW_OPTIONS_LANGUAGE_GERMAN]
-Duits
+Deutsch
 
 [NEW_OPTIONS_LANGUAGE_ITALIAN]
-Italiaans
+Italiano
 
 [NEW_OPTIONS_LANGUAGE_RUSSIAN]
-Russisch
+Русский
 
 [NEW_OPTIONS_LANGUAGE_KOREAN]
-Koreaans
+한국어
 
 [NEW_OPTIONS_LANGUAGE_DUTCH]
 Nederlands
 
 [NEW_OPTIONS_LANGUAGE_BRAZILIAN_PORTUGUESE]
-Portugees (Brazilië)
+Português (Brasil)
 
 [NEW_OPTIONS_LANGUAGE_SWEDISH]
-Zweeds
+Svenska
+
+[GAMEPAD_DEADZONE_LABEL]
+Dode zone ({0}–{1})
+
+[GAMEPAD_DEADZONE_INVALID]
+De dode zone moet tussen {0} en {1} liggen.
+
+[CREDITS_LYRIC_LAWN_ZOMBIE]
+Er staat een zombie op je gazon
+
+[CREDITS_LYRIC_NO_ZOMBIES]
+We willen geen zombies op het gazon
+
+[CREDITS_LYRIC_TYPE]
+Ik ken jouw soort: lang, duister en dood
+
+[CREDITS_LYRIC_BITE_PETALS]
+Je wilt alle bloemblaadjes van mijn hoofd bijten
+
+[CREDITS_LYRIC_THEN_BRAINS]
+En daarna de hersenen opeten
+
+[CREDITS_LYRIC_PLANTER]
+van degene die mij hier plantte
+
+[CREDITS_LYRIC_SUNFLOWER_SEE]
+Ik ben maar een zonnebloem, maar kijk
+
+[CREDITS_LYRIC_INFANTRY]
+hoe ik een hele infanterie van energie voorzie
+
+[CREDITS_LYRIC_LIKE_BRAINS]
+Jij houdt van de smaak van hersenen
+
+[CREDITS_LYRIC_DISLIKE_ZOMBIES]
+Wij houden niet van zombies
+
+[CREDITS_LYRIC_REEVALUATE]
+Misschien moet je er nog eens over nadenken
+
+[CREDITS_LYRIC_FOOD_PLATE]
+Ik weet dat er veel eten op je bord ligt
+
+[CREDITS_LYRIC_CHOLESTEROL]
+Hersenen zitten vol cholesterol
+
+[CREDITS_LYRIC_DEAD]
+Je bent dood, dus dat maakt niet uit, maar
+
+[CREDITS_LYRIC_SOLAR_POWER]
+Wij gebruiken deze zonne-energie
+
+[CREDITS_LYRIC_LAWN_DEFENSE]
+om het gazon dag en nacht te verdedigen
+
+[CREDITS_LYRIC_ZOMBIES_ARRIVED]
+De zombies zijn gekomen
+
+[CREDITS_LYRIC_ZOMBIES_LEFT]
+De zombies zijn vertrokken
+
+[CREDITS_LYRIC_SCARY_SKELETONS]
+Zombies zijn enge skeletten
+
+[CREDITS_LYRIC_TAKE_PETALS]
+Ze willen alle bloemblaadjes plukken
+
+[CREDITS_LYRIC_THEN_HEAD]
+En daarna willen ze het hoofd
+
+[CREDITS_LYRIC_EAT_IT]
+opeten
+
+[CREDITS_LYRIC_JUST_SUNFLOWER]
+Ik ben maar een zonnebloem
+
+[CREDITS_LYRIC_STRONG]
+Maar ik ben sterk
+
+[CREDITS_LYRIC_BACKYARD]
+Ik wil in de achtertuin spelen
+
+[CREDITS_LYRIC_STOP_EATING]
+Stop met hoofden eten
+
+[CREDITS_LYRIC_FIGHT_SOLAR]
+Ik vecht met zonne-energie
+
+[CREDITS_LYRIC_SAVE_PLANTS]
+om de planten te beschermen
+
+[CREDITS_LYRIC_FOOTBALL]
+Vroeger speelde ik American football
+
+[CREDITS_LYRIC_CONE]
+Verkeerskegels beschermen mijn hoofd
+
+[CREDITS_LYRIC_SCREEN_DOOR]
+Ik heb een hordeur als schild
+
+[CREDITS_LYRIC_TRICYCLE]
+Ik vind je driewieler leuk
+
+[CREDITS_LYRIC_BUTTER]
+Er kleeft boter op mijn hoofd
+
+[CREDITS_LYRIC_EAT_BRAINS]
+Ik ga je hersenen opeten!
+
+[CREDITS_LYRIC_HELMET]
+Ik heb een helm opgezet
+
+[CREDITS_LYRIC_HOLD_SCREEN_DOOR]
+Ik heb ook een hordeur bij me
+
+[CREDITS_LYRIC_GIVE_TRICYCLE]
+Geef me die driewieler

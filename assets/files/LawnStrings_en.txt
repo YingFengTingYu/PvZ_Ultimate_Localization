@@ -8354,16 +8354,16 @@ Could not export the save ZIP.
 About
 
 [NEW_OPTIONS_LANGUAGE_CHINESE]
-Simplified Chinese
+简体中文
 
 [NEW_OPTIONS_LANGUAGE_ENGLISH]
 English
 
 [NEW_OPTIONS_LANGUAGE_SPANISH]
-Spanish
+Español
 
 [NEW_OPTIONS_LANGUAGE_TRADITIONAL_CHINESE]
-Traditional Chinese
+繁體中文
 
 [NEW_OPTIONS_LOW_LATENCY_AUDIO]
 Low-latency audio
@@ -9941,6 +9941,9 @@ Co-Op Zomboss
 
 [COOP_ENDLESS]
 Co-Op Endless
+
+[COOP_SUN_PLAYER]
+P{0}
 
 [ADVICE_DOUBLE_SUN]
 Move both cursors over double sun to pick it up!
@@ -12308,32 +12311,152 @@ Zombies on Your Lawn (Japanese)
 [NEW_OPTIONS_MV_LANGUAGE]
 MV language
 
+[NEW_OPTIONS_MV_TRANSLATION]
+Show MV lyric translations
+
 [NEW_OPTIONS_LANGUAGE_JAPANESE]
-Japanese
+日本語
 
 [NEW_OPTIONS_HELP_MUSICVIDEOLANGUAGE]
 Choose English or Japanese vocals and subtitles for the music video. Defaults to English and applies the next time you open the MV; the interface language stays unchanged.
 
 [NEW_OPTIONS_LANGUAGE_FRENCH]
-French
+Français
 
 [NEW_OPTIONS_LANGUAGE_GERMAN]
-German
+Deutsch
 
 [NEW_OPTIONS_LANGUAGE_ITALIAN]
-Italian
+Italiano
 
 [NEW_OPTIONS_LANGUAGE_RUSSIAN]
-Russian
+Русский
 
 [NEW_OPTIONS_LANGUAGE_KOREAN]
-Korean
+한국어
 
 [NEW_OPTIONS_LANGUAGE_DUTCH]
-Dutch
+Nederlands
 
 [NEW_OPTIONS_LANGUAGE_BRAZILIAN_PORTUGUESE]
-Portuguese (Brazil)
+Português (Brasil)
 
 [NEW_OPTIONS_LANGUAGE_SWEDISH]
-Swedish
+Svenska
+
+[GAMEPAD_DEADZONE_LABEL]
+Deadzone ({0}–{1})
+
+[GAMEPAD_DEADZONE_INVALID]
+Deadzone must be between {0} and {1}.
+
+[CREDITS_LYRIC_LAWN_ZOMBIE]
+There's a zombie on your lawn
+
+[CREDITS_LYRIC_NO_ZOMBIES]
+We don't want zombies on the lawn
+
+[CREDITS_LYRIC_TYPE]
+I know your type: tall, dark, and dead
+
+[CREDITS_LYRIC_BITE_PETALS]
+You want to bite all the petals off my head
+
+[CREDITS_LYRIC_THEN_BRAINS]
+And then eat the brains of
+
+[CREDITS_LYRIC_PLANTER]
+the one who planted me here
+
+[CREDITS_LYRIC_SUNFLOWER_SEE]
+I'm just a sunflower, but watch
+
+[CREDITS_LYRIC_INFANTRY]
+me power an entire infantry
+
+[CREDITS_LYRIC_LIKE_BRAINS]
+You like the taste of brains
+
+[CREDITS_LYRIC_DISLIKE_ZOMBIES]
+We don't like zombies
+
+[CREDITS_LYRIC_REEVALUATE]
+Maybe it's time to reevaluate
+
+[CREDITS_LYRIC_FOOD_PLATE]
+I know you have a lot of food on your plate
+
+[CREDITS_LYRIC_CHOLESTEROL]
+Brains are full of cholesterol
+
+[CREDITS_LYRIC_DEAD]
+You're dead, so it doesn't matter, but
+
+[CREDITS_LYRIC_SOLAR_POWER]
+We'll use this solar power
+
+[CREDITS_LYRIC_LAWN_DEFENSE]
+to defend the lawn at any hour
+
+[CREDITS_LYRIC_ZOMBIES_ARRIVED]
+The zombies have arrived
+
+[CREDITS_LYRIC_ZOMBIES_LEFT]
+The zombies have left
+
+[CREDITS_LYRIC_SCARY_SKELETONS]
+Zombies are scary skeletons
+
+[CREDITS_LYRIC_TAKE_PETALS]
+They want to pluck off every petal
+
+[CREDITS_LYRIC_THEN_HEAD]
+And then they want to
+
+[CREDITS_LYRIC_EAT_IT]
+eat your head
+
+[CREDITS_LYRIC_JUST_SUNFLOWER]
+I'm just a sunflower
+
+[CREDITS_LYRIC_STRONG]
+But I'm strong
+
+[CREDITS_LYRIC_BACKYARD]
+I want to play in the backyard
+
+[CREDITS_LYRIC_STOP_EATING]
+Stop eating heads
+
+[CREDITS_LYRIC_FIGHT_SOLAR]
+I'll fight with solar power
+
+[CREDITS_LYRIC_SAVE_PLANTS]
+to protect the plants
+
+[CREDITS_LYRIC_FOOTBALL]
+I used to play football
+
+[CREDITS_LYRIC_CONE]
+Road cones protect my head
+
+[CREDITS_LYRIC_SCREEN_DOOR]
+I have a screen-door shield
+
+[CREDITS_LYRIC_TRICYCLE]
+I like your tricycle
+
+[CREDITS_LYRIC_BUTTER]
+There's butter stuck on my head
+
+[CREDITS_LYRIC_EAT_BRAINS]
+I'm gonna eat your brains!
+
+[CREDITS_LYRIC_HELMET]
+I've put on a helmet
+
+[CREDITS_LYRIC_HOLD_SCREEN_DOOR]
+I've got a screen door, too
+
+[CREDITS_LYRIC_GIVE_TRICYCLE]
+Give me that tricycle

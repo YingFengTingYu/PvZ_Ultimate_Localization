@@ -6440,15 +6440,15 @@ Incrementa la vida máxima por %s.
 
 [HEROPLANT_0_SKILL_2]
 Ojos Láser
-Probabilidad del %s%% de tirar un láser que atraviesa a una línea de zombis.
+Probabilidad del %s %% de tirar un láser que atraviesa a una línea de zombis.
 
 [HEROPLANT_0_SKILL_3]
 Misil Balístico
-Probabilidad del %s%% de lanzar un misil balístico, haciendo un gran daño al impacto.
+Probabilidad del %s %% de lanzar un misil balístico, haciendo un gran daño al impacto.
 
 [HEROPLANT_0_SKILL_4]
 Autoreparación (Desbloquear al Nv.5)
-Mientras no es mordida se cura %s%% de su vida máxima.
+Mientras no es mordida se cura %s %% de su vida máxima.
 
 [HEROPLANT_0_SKILL_5]
 Escudo Invencible (Desbloquear al Nv.10)
@@ -6460,15 +6460,15 @@ Incrementa la velocidad del héroe por %s.
 
 [HEROPLANT_1_SKILL_2]
 Dios guisante de la guerra
-Aumenta un %s%% la velocidad de ataque de las plantas de guisantes en la zona de 3x3 circundante.
+Aumenta un %s %% la velocidad de ataque de las plantas de guisantes en la zona de 3x3 circundante.
 
 [HEROPLANT_1_SKILL_3]
 Ojos dorados llameantes
-Un %s%% de probabilidad de quemar con la mirada a los zombis de la casilla justo delante.
+Un %s %% de probabilidad de quemar con la mirada a los zombis de la casilla justo delante.
 
 [HEROPLANT_1_SKILL_4]
 Velocidad del Trueno (Desbloquear al Nv.5)
-Incrementa la Velocidad de disparo del héroe en %s%%.
+Incrementa la Velocidad de disparo del héroe en %s %%.
 
 [HEROPLANT_1_SKILL_5]
 Ru Yi Bang (Desbloquear al Nv.10)
@@ -6480,7 +6480,7 @@ Incrementa la vida máxima por %s.
 
 [HEROPLANT_2_SKILL_2]
 Despertar
-Reduce la recarga del ataque en un %s%%.
+Reduce la recarga del ataque en un %s %%.
 
 [HEROPLANT_2_SKILL_3]
 Rastrillos
@@ -6488,7 +6488,7 @@ Cada %s segundos, hace aparecer un rastrillo a la derecha del jardín.
 
 [HEROPLANT_2_SKILL_4]
 Avaricia (Desbloquear al Nv.5)
-Los zombis derrotados con el héroe tienen %s%% de soltar una moneda de oro.
+Los zombis derrotados con el héroe tienen %s %% de soltar una moneda de oro.
 
 [HEROPLANT_2_SKILL_5]
 Terremoto (Desbloquear al Nv.10)
@@ -6500,15 +6500,15 @@ Incrementa la vida máxima por %s.
 
 [HEROPLANT_3_SKILL_2]
 Reflejar
-Refleja %s%% de todo el daño hecho al héroe.
+Refleja %s %% de todo el daño hecho al héroe.
 
 [HEROPLANT_3_SKILL_3]
 Recuperación
-Recupera un %s%% de salud por segundo mientras no recibe ataques.
+Recupera un %s %% de salud por segundo mientras no recibe ataques.
 
 [HEROPLANT_3_SKILL_4]
 Fortaleza (Nv. 5)
-Aumenta un %s%% la salud máxima de las demás nueces del césped.
+Aumenta un %s %% la salud máxima de las demás nueces del césped.
 
 [HEROPLANT_3_SKILL_5]
 Boliche (Desbloquear al Nv.10)
@@ -6516,7 +6516,7 @@ Cada %s segundos, cuando esta bajo de vida, rueda hacia adelante y aplasta a los
 
 [HEROPLANT_4_SKILL_1]
 Aceleración
-Aumenta la velocidad de producción de sol un %s%%.
+Aumenta la velocidad de producción de sol un %s %%.
 
 [HEROPLANT_4_SKILL_2]
 Sobrecarga
@@ -6536,11 +6536,11 @@ Cada %s segundos, recita su hechizo y aturde a todos los zombis de toda la panta
 
 [HEROPLANT_8_SKILL_1]
 Aro de ira
-Incrementa el daño de las plantas que lancen proyectiles en un área de 3x3 en un %s%%.
+Incrementa el daño de las plantas que lancen proyectiles en un área de 3x3 en un %s %%.
 
 [HEROPLANT_8_SKILL_2]
 Toque de Midas
-Probabilidad del %s%% que dispare una espina dorada, los zombis que mueran por ella sueltan 25 soles.
+Probabilidad del %s %% que dispare una espina dorada, los zombis que mueran por ella sueltan 25 soles.
 
 [HEROPLANT_8_SKILL_3]
 Negociar
@@ -6548,7 +6548,7 @@ Cada %s segundos, hace al zombi más cercano a la casa pelear por ti.
 
 [HEROPLANT_8_SKILL_4]
 Velocidad del Trueno (Desbloquear al Nv.5)
-Incrementa la Velocidad de disparo del héroe en %s%%.
+Incrementa la Velocidad de disparo del héroe en %s %%.
 
 [HEROPLANT_8_SKILL_5]
 Hechizero (Desbloquear al Nv.10)
@@ -6561,7 +6561,7 @@ Cada %s segundos, saca al zombi más cercano a la casa fuera del jardín.
 
 [HEROPLANT_6_SKILL_2]
 Trébol
-Periódicamente tiene un %s%% de probabilidad de disparar un trébol.
+Periódicamente tiene un %s %% de probabilidad de disparar un trébol.
 
 [HEROPLANT_6_SKILL_3]
 Ánimo
@@ -6569,7 +6569,7 @@ Si hay más de 3 zombis en el césped, aumenta periódicamente mucho su velocida
 
 [HEROPLANT_6_SKILL_4]
 Agilidad (Nv. 5)
-Aumenta la velocidad de movimiento un %s%%.
+Aumenta la velocidad de movimiento un %s %%.
 
 [HEROPLANT_6_SKILL_5]
 Desarmar (Desbloquear al Nv.10)
@@ -6577,19 +6577,19 @@ Cada %s segundos, sopla toda la armadura de todos los zombis en pantalla.
 
 [HEROPLANT_7_SKILL_1]
 Cultivo
-Aumenta el daño básico de ataque un %s%%.
+Aumenta el daño básico de ataque un %s %%.
 
 [HEROPLANT_7_SKILL_2]
 Carambanos
-Probabilidad del %s%% de disparar un carambano que congela un zombi por un periodo corto de tiempo.
+Probabilidad del %s %% de disparar un carambano que congela un zombi por un periodo corto de tiempo.
 
 [HEROPLANT_7_SKILL_3]
 Príncipe dragón
-Cada Hielaguisantes y Melonpulta congelada en la zona de 3x3 circundante aumenta el daño del héroe un %s%%.
+Cada Hielaguisantes y Melonpulta congelada en la zona de 3x3 circundante aumenta el daño del héroe un %s %%.
 
 [HEROPLANT_7_SKILL_4]
 Frío intenso (Nv. 5)
-Reduce un %s%% la velocidad de ataque de los zombis en la zona de 3x3 circundante.
+Reduce un %s %% la velocidad de ataque de los zombis en la zona de 3x3 circundante.
 
 
 [HEROPLANT_7_SKILL_5]
@@ -6598,15 +6598,15 @@ Cada %s segundos, lanza una bomba congelante que congela a los zombis de un áre
 
 [HEROPLANT_5_SKILL_1]
 Guisantes Inflamables
-Probabilidad del %s%% de lanzar un guisante en llamas en vez de un guisante normal.
+Probabilidad del %s %% de lanzar un guisante en llamas en vez de un guisante normal.
 
 [HEROPLANT_5_SKILL_2]
 Combo Rápido
-Incrementa la Vel. de disparo un %s%% por cada zombi derrotado por el héroe en 10 segundos.
+Incrementa la Vel. de disparo un %s %% por cada zombi derrotado por el héroe en 10 segundos.
 
 [HEROPLANT_5_SKILL_3]
 Vistas del más allá
-Probabilidad del %s%% que los proyectiles del héroe atraviesen zombis.
+Probabilidad del %s %% que los proyectiles del héroe atraviesen zombis.
 
 [HEROPLANT_5_SKILL_4]
 Revivir (Desbloquear al Nv.5)
@@ -6622,7 +6622,7 @@ Cada %s segundos mientras se mueve, se teletransporta a la dirección selecciona
 
 [HEROPLANT_9_SKILL_2]
 Escudo absorbente
-Cuando la vida del héroe está debajo del %s%%, reduce la mitad del daño recibido.
+Cuando la vida del héroe está debajo del %s %%, reduce la mitad del daño recibido.
 
 [HEROPLANT_9_SKILL_3]
 Venganza
@@ -6630,7 +6630,7 @@ Pequeña probabilidad de activar objetos cuando es atacada, aplastando al zombi 
 
 [HEROPLANT_9_SKILL_4]
 Rey celestial (Nv. 5)
-Mientras el héroe está quieto, cura cada segundo un %s%% de la salud máxima de las plantas cercanas.
+Mientras el héroe está quieto, cura cada segundo un %s %% de la salud máxima de las plantas cercanas.
 
 [HEROPLANT_9_SKILL_5]
 Escudo Dorado (Desbloquear al Nv.10)
@@ -6655,7 +6655,7 @@ dorados para revivir a tu
 héroe inmediatamente?
 
 [SKILL_EXTRA_RATE_STRING]
-(Siguiente Nv: %s%)
+(Siguiente Nv: %s %)
 
 [SKILL_EXTRA_NUMBER_STRING]
 (Siguiente Nv: %s)
@@ -7382,7 +7382,7 @@ Cuando lo muerden, aturde a los zombis de su alrededor por %s segundos cada 5 se
 
 [HEROPLANT_10_SKILL_4]
 Necromancia (Desbloquear al Nv.5)
-Invoca 3 zombis para pelear por ti cada 50 segundos, con una probabilidad del %s%% de invocar Zombis Mariscales.
+Invoca 3 zombis para pelear por ti cada 50 segundos, con una probabilidad del %s %% de invocar Zombis Mariscales.
 
 [HEROPLANT_10_SKILL_5]
 Espada de la Razón (Desbloquear al Nv.10)
@@ -7914,19 +7914,19 @@ Incrementa la velocidad del héroe por %s.
 
 [HEROPLANT_11_SKILL_2]
 Despertar
-Reduce un %s%% el intervalo para pasar de Seta negra a Seta blanca.
+Reduce un %s %% el intervalo para pasar de Seta negra a Seta blanca.
 
 [HEROPLANT_11_SKILL_3]
 Hipnosis demoníaca
-Al pasar de Seta negra a Seta blanca, tiene un %s%% de probabilidad de realizar un ataque adicional.
+Al pasar de Seta negra a Seta blanca, tiene un %s %% de probabilidad de realizar un ataque adicional.
 
 [HEROPLANT_11_SKILL_4]
 Extra Encanto (Desbloquear al Nv.5)
-Los ataques de Setabisal tienen una probabilidad del %s%% de lanzar una burbuja extra.
+Los ataques de Setabisal tienen una probabilidad del %s %% de lanzar una burbuja extra.
 
 [HEROPLANT_11_SKILL_5]
 Control real (Nv. 10)
-Los ataques de Seta blanca tienen un %s%% de probabilidad de hipnotizar a todos los zombis de una zona de 3x3.
+Los ataques de Seta blanca tienen un %s %% de probabilidad de hipnotizar a todos los zombis de una zona de 3x3.
 
 [ULTIMATE_SHEPHERDS_PURSE]
 Sanaflor
@@ -8100,7 +8100,7 @@ Agrega un Megacomodín a su mazo, haciendo %s de daño en un área pequeña.
 
 [HEROPLANT_12_SKILL_3]
 Comodín
-Añade un Comodín a su mazo, tiene una probabilidad del %s%% de hipnotizar zombis.
+Añade un Comodín a su mazo, tiene una probabilidad del %s %% de hipnotizar zombis.
 
 [HEROPLANT_12_SKILL_4]
 Repartidor de Cartas (Desbloquear al Nv.5)
@@ -8394,16 +8394,16 @@ No se puede exportar el ZIP con tus datos.
 Acerca de
 
 [NEW_OPTIONS_LANGUAGE_CHINESE]
-Chino simplificado
+简体中文
 
 [NEW_OPTIONS_LANGUAGE_ENGLISH]
-Inglés
+English
 
 [NEW_OPTIONS_LANGUAGE_SPANISH]
 Español
 
 [NEW_OPTIONS_LANGUAGE_TRADITIONAL_CHINESE]
-Chino tradicional
+繁體中文
 
 [NEW_OPTIONS_LOW_LATENCY_AUDIO]
 Audio con Baja Latencia
@@ -9973,6 +9973,9 @@ Dr. Zombi cooperativo
 
 [COOP_ENDLESS]
 Cooperativo sin fin
+
+[COOP_SUN_PLAYER]
+J{0}
 
 [ADVICE_DOUBLE_SUN]
 ¡Mueve ambos cursores sobre el sol doble para recogerlo!
@@ -11985,7 +11988,7 @@ herramienta superior {0}
 ninguna carta seleccionada
 
 [A11Y_COOLDOWN]
-{0}% de recarga restante
+{0} % de recarga restante
 
 [A11Y_NOT_ENOUGH_SUN]
 soles insuficientes
@@ -12351,32 +12354,152 @@ Zombis en tu jardín (japonés)
 [NEW_OPTIONS_MV_LANGUAGE]
 Idioma del videoclip
 
+[NEW_OPTIONS_MV_TRANSLATION]
+Mostrar traducción de la letra del MV
+
 [NEW_OPTIONS_LANGUAGE_JAPANESE]
-Japonés
+日本語
 
 [NEW_OPTIONS_HELP_MUSICVIDEOLANGUAGE]
 Elige voces y subtítulos en inglés o japonés para el videoclip. El inglés es el idioma predeterminado. Se aplica la próxima vez que abras el videoclip y no cambia el idioma de la interfaz.
 
 [NEW_OPTIONS_LANGUAGE_FRENCH]
-Francés
+Français
 
 [NEW_OPTIONS_LANGUAGE_GERMAN]
-Alemán
+Deutsch
 
 [NEW_OPTIONS_LANGUAGE_ITALIAN]
 Italiano
 
 [NEW_OPTIONS_LANGUAGE_RUSSIAN]
-Ruso
+Русский
 
 [NEW_OPTIONS_LANGUAGE_KOREAN]
-Coreano
+한국어
 
 [NEW_OPTIONS_LANGUAGE_DUTCH]
-Neerlandés
+Nederlands
 
 [NEW_OPTIONS_LANGUAGE_BRAZILIAN_PORTUGUESE]
-Portugués (Brasil)
+Português (Brasil)
 
 [NEW_OPTIONS_LANGUAGE_SWEDISH]
-Sueco
+Svenska
+
+[GAMEPAD_DEADZONE_LABEL]
+Zona muerta ({0}–{1})
+
+[GAMEPAD_DEADZONE_INVALID]
+La zona muerta debe estar entre {0} y {1}.
+
+[CREDITS_LYRIC_LAWN_ZOMBIE]
+Hay un zombi en tu jardín
+
+[CREDITS_LYRIC_NO_ZOMBIES]
+No queremos zombis en el jardín
+
+[CREDITS_LYRIC_TYPE]
+Conozco a los de tu tipo: altos, oscuros y muertos
+
+[CREDITS_LYRIC_BITE_PETALS]
+Quieres arrancarme a mordiscos todos los pétalos
+
+[CREDITS_LYRIC_THEN_BRAINS]
+Y después comerte el cerebro
+
+[CREDITS_LYRIC_PLANTER]
+de quien me plantó aquí
+
+[CREDITS_LYRIC_SUNFLOWER_SEE]
+Solo soy un girasol, pero mira
+
+[CREDITS_LYRIC_INFANTRY]
+cómo doy energía a toda una infantería
+
+[CREDITS_LYRIC_LIKE_BRAINS]
+Te gusta el sabor de los cerebros
+
+[CREDITS_LYRIC_DISLIKE_ZOMBIES]
+No nos gustan los zombis
+
+[CREDITS_LYRIC_REEVALUATE]
+Quizá sea hora de pensarlo de nuevo
+
+[CREDITS_LYRIC_FOOD_PLATE]
+Sé que tienes mucha comida en el plato
+
+[CREDITS_LYRIC_CHOLESTEROL]
+Los cerebros tienen mucho colesterol
+
+[CREDITS_LYRIC_DEAD]
+Ya estás muerto, así que da igual, pero
+
+[CREDITS_LYRIC_SOLAR_POWER]
+Usaremos esta energía solar
+
+[CREDITS_LYRIC_LAWN_DEFENSE]
+para defender el jardín a cualquier hora
+
+[CREDITS_LYRIC_ZOMBIES_ARRIVED]
+Han llegado los zombis
+
+[CREDITS_LYRIC_ZOMBIES_LEFT]
+Los zombis se han ido
+
+[CREDITS_LYRIC_SCARY_SKELETONS]
+Los zombis son esqueletos aterradores
+
+[CREDITS_LYRIC_TAKE_PETALS]
+Quieren arrancarme todos los pétalos
+
+[CREDITS_LYRIC_THEN_HEAD]
+Y luego quieren
+
+[CREDITS_LYRIC_EAT_IT]
+comerse la cabeza
+
+[CREDITS_LYRIC_JUST_SUNFLOWER]
+Solo soy un girasol
+
+[CREDITS_LYRIC_STRONG]
+Pero soy fuerte
+
+[CREDITS_LYRIC_BACKYARD]
+Quiero jugar en el patio trasero
+
+[CREDITS_LYRIC_STOP_EATING]
+Dejad de comer cabezas
+
+[CREDITS_LYRIC_FIGHT_SOLAR]
+Lucharé con energía solar
+
+[CREDITS_LYRIC_SAVE_PLANTS]
+para proteger a las plantas
+
+[CREDITS_LYRIC_FOOTBALL]
+Antes jugaba al fútbol americano
+
+[CREDITS_LYRIC_CONE]
+Los conos protegen mi cabeza
+
+[CREDITS_LYRIC_SCREEN_DOOR]
+Tengo una puerta mosquitera de escudo
+
+[CREDITS_LYRIC_TRICYCLE]
+Me gusta tu triciclo
+
+[CREDITS_LYRIC_BUTTER]
+Tengo mantequilla pegada en la cabeza
+
+[CREDITS_LYRIC_EAT_BRAINS]
+¡Voy a comerme tu cerebro!
+
+[CREDITS_LYRIC_HELMET]
+Me he puesto un casco
+
+[CREDITS_LYRIC_HOLD_SCREEN_DOOR]
+También llevo una puerta mosquitera
+
+[CREDITS_LYRIC_GIVE_TRICYCLE]
+Dame ese triciclo

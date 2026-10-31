@@ -8322,16 +8322,16 @@ Impossibile esportare lo ZIP di salvataggio.
 Informazioni
 
 [NEW_OPTIONS_LANGUAGE_CHINESE]
-Cinese semplificato
+简体中文
 
 [NEW_OPTIONS_LANGUAGE_ENGLISH]
-Inglese
+English
 
 [NEW_OPTIONS_LANGUAGE_SPANISH]
-Spagnolo
+Español
 
 [NEW_OPTIONS_LANGUAGE_TRADITIONAL_CHINESE]
-Cinese tradizionale
+繁體中文
 
 [NEW_OPTIONS_LOW_LATENCY_AUDIO]
 Audio a bassa latenza
@@ -9908,6 +9908,9 @@ Coop: Zombotron
 
 [COOP_ENDLESS]
 Coop: Infinita
+
+[COOP_SUN_PLAYER]
+G{0}
 
 [ADVICE_DOUBLE_SUN]
 Portate entrambi i cursori sul doppio sole per raccoglierlo!
@@ -12273,32 +12276,152 @@ Zombi sul tuo prato (giapponese)
 [NEW_OPTIONS_MV_LANGUAGE]
 Lingua del video
 
+[NEW_OPTIONS_MV_TRANSLATION]
+Mostra la traduzione del testo del video musicale
+
 [NEW_OPTIONS_LANGUAGE_JAPANESE]
-Giapponese
+日本語
 
 [NEW_OPTIONS_HELP_MUSICVIDEOLANGUAGE]
 Scegli voce e sottotitoli inglesi o giapponesi per il video. Inglese predefinito, applicato al prossimo avvio del video. L'interfaccia non cambia.
 
 [NEW_OPTIONS_LANGUAGE_FRENCH]
-Francese
+Français
 
 [NEW_OPTIONS_LANGUAGE_GERMAN]
-Tedesco
+Deutsch
 
 [NEW_OPTIONS_LANGUAGE_ITALIAN]
 Italiano
 
 [NEW_OPTIONS_LANGUAGE_RUSSIAN]
-Russo
+Русский
 
 [NEW_OPTIONS_LANGUAGE_KOREAN]
-Coreano
+한국어
 
 [NEW_OPTIONS_LANGUAGE_DUTCH]
-Olandese
+Nederlands
 
 [NEW_OPTIONS_LANGUAGE_BRAZILIAN_PORTUGUESE]
-Portoghese (Brasile)
+Português (Brasil)
 
 [NEW_OPTIONS_LANGUAGE_SWEDISH]
-Svedese
+Svenska
+
+[GAMEPAD_DEADZONE_LABEL]
+Zona morta ({0}–{1})
+
+[GAMEPAD_DEADZONE_INVALID]
+La zona morta deve essere compresa tra {0} e {1}.
+
+[CREDITS_LYRIC_LAWN_ZOMBIE]
+C'è uno zombi sul tuo prato
+
+[CREDITS_LYRIC_NO_ZOMBIES]
+Non vogliamo zombi sul prato
+
+[CREDITS_LYRIC_TYPE]
+Conosco il tuo tipo: alto, tenebroso e morto
+
+[CREDITS_LYRIC_BITE_PETALS]
+Vuoi mordermi via tutti i petali dalla testa
+
+[CREDITS_LYRIC_THEN_BRAINS]
+E poi mangiare il cervello
+
+[CREDITS_LYRIC_PLANTER]
+di chi mi ha piantato qui
+
+[CREDITS_LYRIC_SUNFLOWER_SEE]
+Sono solo un girasole, ma guarda
+
+[CREDITS_LYRIC_INFANTRY]
+come do energia a un'intera fanteria
+
+[CREDITS_LYRIC_LIKE_BRAINS]
+Ti piace il sapore dei cervelli
+
+[CREDITS_LYRIC_DISLIKE_ZOMBIES]
+A noi non piacciono gli zombi
+
+[CREDITS_LYRIC_REEVALUATE]
+Forse è ora di ripensarci
+
+[CREDITS_LYRIC_FOOD_PLATE]
+So che hai tanto cibo nel piatto
+
+[CREDITS_LYRIC_CHOLESTEROL]
+I cervelli sono pieni di colesterolo
+
+[CREDITS_LYRIC_DEAD]
+Sei morto, quindi non importa, ma
+
+[CREDITS_LYRIC_SOLAR_POWER]
+Useremo questa energia solare
+
+[CREDITS_LYRIC_LAWN_DEFENSE]
+per difendere il prato a ogni ora
+
+[CREDITS_LYRIC_ZOMBIES_ARRIVED]
+Sono arrivati gli zombi
+
+[CREDITS_LYRIC_ZOMBIES_LEFT]
+Gli zombi se ne sono andati
+
+[CREDITS_LYRIC_SCARY_SKELETONS]
+Gli zombi sono scheletri spaventosi
+
+[CREDITS_LYRIC_TAKE_PETALS]
+Vogliono strappare tutti i petali
+
+[CREDITS_LYRIC_THEN_HEAD]
+E poi vogliono
+
+[CREDITS_LYRIC_EAT_IT]
+mangiarsi la testa
+
+[CREDITS_LYRIC_JUST_SUNFLOWER]
+Sono solo un girasole
+
+[CREDITS_LYRIC_STRONG]
+Ma sono forte
+
+[CREDITS_LYRIC_BACKYARD]
+Voglio giocare in cortile
+
+[CREDITS_LYRIC_STOP_EATING]
+Smettetela di mangiare teste
+
+[CREDITS_LYRIC_FIGHT_SOLAR]
+Combatterò con l'energia solare
+
+[CREDITS_LYRIC_SAVE_PLANTS]
+per proteggere le piante
+
+[CREDITS_LYRIC_FOOTBALL]
+Una volta giocavo a football americano
+
+[CREDITS_LYRIC_CONE]
+I coni stradali mi proteggono la testa
+
+[CREDITS_LYRIC_SCREEN_DOOR]
+Ho una porta a zanzariera come scudo
+
+[CREDITS_LYRIC_TRICYCLE]
+Mi piace il tuo triciclo
+
+[CREDITS_LYRIC_BUTTER]
+Ho del burro appiccicato in testa
+
+[CREDITS_LYRIC_EAT_BRAINS]
+Ti mangerò il cervello!
+
+[CREDITS_LYRIC_HELMET]
+Mi sono messo un casco
+
+[CREDITS_LYRIC_HOLD_SCREEN_DOOR]
+Ho anche una porta a zanzariera
+
+[CREDITS_LYRIC_GIVE_TRICYCLE]
+Dammi quel triciclo

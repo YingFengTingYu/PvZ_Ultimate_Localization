@@ -9012,16 +9012,16 @@ ZIPをエクスポート
 情報
 
 [NEW_OPTIONS_LANGUAGE_CHINESE]
-簡体字中国語
+简体中文
 
 [NEW_OPTIONS_LANGUAGE_ENGLISH]
-英語
+English
 
 [NEW_OPTIONS_LANGUAGE_SPANISH]
-スペイン語
+Español
 
 [NEW_OPTIONS_LANGUAGE_TRADITIONAL_CHINESE]
-繁体字中国語
+繁體中文
 
 [NEW_OPTIONS_LOW_LATENCY_AUDIO]
 低遅延オーディオ
@@ -10598,6 +10598,9 @@ Ultimateオリジナル
 
 [COOP_ENDLESS]
 協力プレイ:エンドレス
+
+[COOP_SUN_PLAYER]
+{0}P
 
 [ADVICE_DOUBLE_SUN]
 両方のカーソルを動かしてダブル太陽をひろおう!
@@ -12963,6 +12966,9 @@ Enter：Start、Backspace：Back、Esc：従来のメニュー
 [NEW_OPTIONS_MV_LANGUAGE]
 MVの言語
 
+[NEW_OPTIONS_MV_TRANSLATION]
+MV の歌詞翻訳を表示
+
 [NEW_OPTIONS_LANGUAGE_JAPANESE]
 日本語
 
@@ -12970,25 +12976,142 @@ MVの言語
 MVの歌と字幕を英語か日本語から選びます。初期設定は英語で、次回MVを開くと反映されます。画面の言語は変わりません。
 
 [NEW_OPTIONS_LANGUAGE_FRENCH]
-フランス語
+Français
 
 [NEW_OPTIONS_LANGUAGE_GERMAN]
-ドイツ語
+Deutsch
 
 [NEW_OPTIONS_LANGUAGE_ITALIAN]
-イタリア語
+Italiano
 
 [NEW_OPTIONS_LANGUAGE_RUSSIAN]
-ロシア語
+Русский
 
 [NEW_OPTIONS_LANGUAGE_KOREAN]
-韓国語
+한국어
 
 [NEW_OPTIONS_LANGUAGE_DUTCH]
-オランダ語
+Nederlands
 
 [NEW_OPTIONS_LANGUAGE_BRAZILIAN_PORTUGUESE]
-ポルトガル語（ブラジル）
+Português (Brasil)
 
 [NEW_OPTIONS_LANGUAGE_SWEDISH]
-スウェーデン語
+Svenska
+
+[GAMEPAD_DEADZONE_LABEL]
+デッドゾーン（{0}–{1}）
+
+[GAMEPAD_DEADZONE_INVALID]
+デッドゾーンは {0} から {1} の範囲で指定してください。
+
+[CREDITS_LYRIC_LAWN_ZOMBIE]
+君の芝生にゾンビがいるよ
+
+[CREDITS_LYRIC_NO_ZOMBIES]
+芝生にゾンビはいらないよ
+
+[CREDITS_LYRIC_TYPE]
+君のことは知ってるよ、背が高くて暗くて死んでる
+
+[CREDITS_LYRIC_BITE_PETALS]
+私の頭の花びらを全部かじりたいんでしょ
+
+[CREDITS_LYRIC_THEN_BRAINS]
+それから脳みそも食べたいんでしょ
+
+[CREDITS_LYRIC_PLANTER]
+私をここに植えた人のね
+
+[CREDITS_LYRIC_SUNFLOWER_SEE]
+ただのひまわりだけど、見ていて
+
+[CREDITS_LYRIC_INFANTRY]
+歩兵隊みんなに力をあげるよ
+
+[CREDITS_LYRIC_LIKE_BRAINS]
+君は脳みその味が好き
+
+[CREDITS_LYRIC_DISLIKE_ZOMBIES]
+私たちはゾンビが嫌い
+
+[CREDITS_LYRIC_REEVALUATE]
+そろそろ考え直したらどう？
+
+[CREDITS_LYRIC_FOOD_PLATE]
+お皿に食べ物がいっぱいなのは知ってるよ
+
+[CREDITS_LYRIC_CHOLESTEROL]
+脳みそはコレステロールがいっぱい
+
+[CREDITS_LYRIC_DEAD]
+もう死んでるから関係ないけど
+
+[CREDITS_LYRIC_SOLAR_POWER]
+この太陽の力を使って
+
+[CREDITS_LYRIC_LAWN_DEFENSE]
+いつでも芝生を守るんだ
+
+[CREDITS_LYRIC_ZOMBIES_ARRIVED]
+ゾンビがやってきた
+
+[CREDITS_LYRIC_ZOMBIES_LEFT]
+ゾンビは出て行った
+
+[CREDITS_LYRIC_SCARY_SKELETONS]
+ゾンビは怖いガイコツ
+
+[CREDITS_LYRIC_TAKE_PETALS]
+花びらを全部取りたがる
+
+[CREDITS_LYRIC_THEN_HEAD]
+その後、頭を
+
+[CREDITS_LYRIC_EAT_IT]
+食べたがる
+
+[CREDITS_LYRIC_JUST_SUNFLOWER]
+ただのひまわり
+
+[CREDITS_LYRIC_STRONG]
+だけど私は強い
+
+[CREDITS_LYRIC_BACKYARD]
+裏庭で遊びたい
+
+[CREDITS_LYRIC_STOP_EATING]
+頭を食べるのはやめなさい
+
+[CREDITS_LYRIC_FIGHT_SOLAR]
+太陽の力で戦うよ
+
+[CREDITS_LYRIC_SAVE_PLANTS]
+植物を守るため
+
+[CREDITS_LYRIC_FOOTBALL]
+昔はフットボールをしていた
+
+[CREDITS_LYRIC_CONE]
+ロードコーンで頭を守る
+
+[CREDITS_LYRIC_SCREEN_DOOR]
+網戸の盾を持ってるぞ
+
+[CREDITS_LYRIC_TRICYCLE]
+君の三輪車が好きだ
+
+[CREDITS_LYRIC_BUTTER]
+頭にバターがくっついた
+
+[CREDITS_LYRIC_EAT_BRAINS]
+お前の脳みそを食べるぞ！
+
+[CREDITS_LYRIC_HELMET]
+ヘルメットをかぶったぞ
+
+[CREDITS_LYRIC_HOLD_SCREEN_DOOR]
+網戸も持ったぞ
+
+[CREDITS_LYRIC_GIVE_TRICYCLE]
+その三輪車をちょうだい

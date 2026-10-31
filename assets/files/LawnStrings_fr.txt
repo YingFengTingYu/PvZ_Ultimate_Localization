@@ -6436,15 +6436,15 @@ Augmente les points de vie maximaux de %s.
 
 [HEROPLANT_0_SKILL_2]
 Œil laser
-A %s%% de chances de tirer un laser traversant une ligne de zombies.
+A %s %% de chances de tirer un laser traversant une ligne de zombies.
 
 [HEROPLANT_0_SKILL_3]
 Missile balistique
-A %s%% de chances de lancer un missile infligeant de gros dégâts à l'impact.
+A %s %% de chances de lancer un missile infligeant de gros dégâts à l'impact.
 
 [HEROPLANT_0_SKILL_4]
 Récupération (niv.5)
-Hors des attaques, récupère %s%% de ses points de vie maximaux.
+Hors des attaques, récupère %s %% de ses points de vie maximaux.
 
 [HEROPLANT_0_SKILL_5]
 Bouclier invincible (niv.10)
@@ -6456,15 +6456,15 @@ Augmente la vitesse de déplacement de %s.
 
 [HEROPLANT_1_SKILL_2]
 Dieu guerrier des pois
-Augmente de %s%% la cadence des plantes à pois dans les 3x3 cases alentour.
+Augmente de %s %% la cadence des plantes à pois dans les 3x3 cases alentour.
 
 [HEROPLANT_1_SKILL_3]
 Yeux d'or enflammés
-A %s%% de chances de brûler tous les zombies sur la case devant lui d'un regard ardent.
+A %s %% de chances de brûler tous les zombies sur la case devant lui d'un regard ardent.
 
 [HEROPLANT_1_SKILL_4]
 Vitesse divine (niv.5)
-Augmente la cadence de tir de %s%%.
+Augmente la cadence de tir de %s %%.
 
 [HEROPLANT_1_SKILL_5]
 Bâton d'or (niv.10)
@@ -6476,7 +6476,7 @@ Augmente les points de vie maximaux de %s.
 
 [HEROPLANT_2_SKILL_2]
 Éveil
-Réduit le délai entre attaques de %s%%.
+Réduit le délai entre attaques de %s %%.
 
 [HEROPLANT_2_SKILL_3]
 Râteaux
@@ -6484,7 +6484,7 @@ Fait apparaître un râteau au hasard à droite de la pelouse toutes les %s seco
 
 [HEROPLANT_2_SKILL_4]
 Avidité (niv.5)
-Les zombies tués par le héros ont %s%% de chances de laisser une pièce d'or.
+Les zombies tués par le héros ont %s %% de chances de laisser une pièce d'or.
 
 [HEROPLANT_2_SKILL_5]
 Séisme (niv.10)
@@ -6496,15 +6496,15 @@ Augmente les points de vie maximaux de %s.
 
 [HEROPLANT_3_SKILL_2]
 Renvoi
-Renvoie %s%% des dégâts subis par le héros.
+Renvoie %s %% des dégâts subis par le héros.
 
 [HEROPLANT_3_SKILL_3]
 Récupération
-Récupère %s%% de vie par seconde quand il n'est pas attaqué.
+Récupère %s %% de vie par seconde quand il n'est pas attaqué.
 
 [HEROPLANT_3_SKILL_4]
 Ténacité (niv.5)
-Augmente de %s%% les points de vie maximaux des autres plantes de type noix sur la pelouse.
+Augmente de %s %% les points de vie maximaux des autres plantes de type noix sur la pelouse.
 
 [HEROPLANT_3_SKILL_5]
 Déferlement (niv.10)
@@ -6512,7 +6512,7 @@ Déferlement (niv.10)
 
 [HEROPLANT_4_SKILL_1]
 Surcadencement
-Augmente la vitesse de production de soleil de %s%%.
+Augmente la vitesse de production de soleil de %s %%.
 
 [HEROPLANT_4_SKILL_2]
 Consécration
@@ -6532,11 +6532,11 @@ Récite le sort toutes les %s secondes et étourdit tous les zombies pendant 1.5
 
 [HEROPLANT_8_SKILL_1]
 Aura
-Augmente de %s%% les dégâts des projectiles des plantes dans les 3x3 cases alentour.
+Augmente de %s %% les dégâts des projectiles des plantes dans les 3x3 cases alentour.
 
 [HEROPLANT_8_SKILL_2]
 Conversion
-A %s%% de chances de tirer un dard doré ; les zombies tués ainsi laissent 25 soleils.
+A %s %% de chances de tirer un dard doré ; les zombies tués ainsi laissent 25 soleils.
 
 [HEROPLANT_8_SKILL_3]
 Soumettre
@@ -6544,7 +6544,7 @@ Convertit le zombie le plus proche de la maison toutes les %s secondes.
 
 [HEROPLANT_8_SKILL_4]
 Vitesse divine (niv.5)
-Augmente la cadence de tir de %s%%.
+Augmente la cadence de tir de %s %%.
 
 [HEROPLANT_8_SKILL_5]
 Branche de saule (niv.10)
@@ -6556,7 +6556,7 @@ Souffle hors de la pelouse le zombie le plus proche de la maison toutes les %s s
 
 [HEROPLANT_6_SKILL_2]
 Trèfle
-A périodiquement %s%% de chances de tirer un trèfle.
+A périodiquement %s %% de chances de tirer un trèfle.
 
 [HEROPLANT_6_SKILL_3]
 Encouragement
@@ -6564,7 +6564,7 @@ Si plus de 3 zombies sont présents, augmente périodiquement fortement la caden
 
 [HEROPLANT_6_SKILL_4]
 Agilité (niv.5)
-Augmente la vitesse de déplacement de %s%%.
+Augmente la vitesse de déplacement de %s %%.
 
 [HEROPLANT_6_SKILL_5]
 Bourrasque (niv.10)
@@ -6572,19 +6572,19 @@ Emporte les objets des zombies sur la pelouse toutes les %s secondes.
 
 [HEROPLANT_7_SKILL_1]
 Cultivation
-Augmente les dégâts d'attaque de base de %s%%.
+Augmente les dégâts d'attaque de base de %s %%.
 
 [HEROPLANT_7_SKILL_2]
 Tir de glace
-Les attaques normales ont %s%% de chances de tirer un petit projectile de glace congelant un zombie.
+Les attaques normales ont %s %% de chances de tirer un petit projectile de glace congelant un zombie.
 
 [HEROPLANT_7_SKILL_3]
 Prince dragon
-Chaque Pois geleur et Courge dans les 3x3 cases alentour augmente les dégâts du héros de %s%%.
+Chaque Pois geleur et Courge dans les 3x3 cases alentour augmente les dégâts du héros de %s %%.
 
 [HEROPLANT_7_SKILL_4]
 Froid mordant (niv.5)
-Réduit de %s%% la vitesse d'attaque de tous les zombies dans les 3x3 cases alentour.
+Réduit de %s %% la vitesse d'attaque de tous les zombies dans les 3x3 cases alentour.
 
 [HEROPLANT_7_SKILL_5]
 Bombe de glace (niv.10)
@@ -6592,15 +6592,15 @@ Tire toutes les %s secondes un gros projectile de glace congelant les zombies au
 
 [HEROPLANT_5_SKILL_1]
 Pois enflammés
-A %s%% de chances de tirer une boule de feu à la place d'un pois normal.
+A %s %% de chances de tirer une boule de feu à la place d'un pois normal.
 
 [HEROPLANT_5_SKILL_2]
 Combo rapide
-Chaque zombie tué augmente la cadence de %s%% pendant 10 secondes.
+Chaque zombie tué augmente la cadence de %s %% pendant 10 secondes.
 
 [HEROPLANT_5_SKILL_3]
 Vision céleste
-Les projectiles du héros ont %s%% de chances de transpercer les zombies.
+Les projectiles du héros ont %s %% de chances de transpercer les zombies.
 
 [HEROPLANT_5_SKILL_4]
 Renaissance du lotus (niv.5)
@@ -6616,7 +6616,7 @@ Peut se téléporter instantanément à la destination choisie toutes les %s sec
 
 [HEROPLANT_9_SKILL_2]
 Mur de boucliers
-Divise les dégâts subis par deux lorsque la vie passe sous %s%%.
+Divise les dégâts subis par deux lorsque la vie passe sous %s %%.
 
 [HEROPLANT_9_SKILL_3]
 Vengeance
@@ -6624,7 +6624,7 @@ Lors d'une attaque reçue, peut activer un objet écrasant les zombies sur la ca
 
 [HEROPLANT_9_SKILL_4]
 Roi céleste (niv.5)
-À l'arrêt, rend chaque seconde %s%% des points de vie maximaux aux plantes proches.
+À l'arrêt, rend chaque seconde %s %% des points de vie maximaux aux plantes proches.
 
 [HEROPLANT_9_SKILL_5]
 Bouclier d'or (niv.10)
@@ -6643,7 +6643,7 @@ Voulez-vous dépenser %d lingots d'or pour réinitialiser les compétences du h�
 Voulez-vous dépenser %d lingots d'or pour ressusciter immédiatement votre héros ?
 
 [SKILL_EXTRA_RATE_STRING]
- (Niveau suivant : %s%)
+ (Niveau suivant : %s %)
 
 [SKILL_EXTRA_NUMBER_STRING]
  (Niveau suivant : %s)
@@ -7315,7 +7315,7 @@ Lors des morsures, étourdit les zombies proches pendant %s secondes toutes les 
 
 [HEROPLANT_10_SKILL_4]
 Retour des esprits (niv.5)
-Invoque trois esprits zombies alliés, avec %s%% de chances d'invoquer des Zombies maréchaux. Recharge : 50 secondes.
+Invoque trois esprits zombies alliés, avec %s %% de chances d'invoquer des Zombies maréchaux. Recharge : 50 secondes.
 
 [HEROPLANT_10_SKILL_5]
 Épée de Zhong Kui (niv.10)
@@ -7848,19 +7848,19 @@ Augmente la vitesse de déplacement de %s.
 
 [HEROPLANT_11_SKILL_2]
 Éveil
-Réduit de %s%% le délai de passage du champignon noir au blanc.
+Réduit de %s %% le délai de passage du champignon noir au blanc.
 
 [HEROPLANT_11_SKILL_3]
 Hypnose démoniaque
-Au passage du noir au blanc, a %s%% de chances d'effectuer une attaque supplémentaire.
+Au passage du noir au blanc, a %s %% de chances d'effectuer une attaque supplémentaire.
 
 [HEROPLANT_11_SKILL_4]
 Jumelles (niv.5)
-Les attaques du champignon noir ont %s%% de chances de tirer une bulle supplémentaire sur une autre cible.
+Les attaques du champignon noir ont %s %% de chances de tirer une bulle supplémentaire sur une autre cible.
 
 [HEROPLANT_11_SKILL_5]
 Contrôle royal (niv.10)
-Les attaques du champignon blanc ont %s%% de chances d'hypnotiser tous les zombies sur 3x3 cases.
+Les attaques du champignon blanc ont %s %% de chances d'hypnotiser tous les zombies sur 3x3 cases.
 
 [ULTIMATE_SHEPHERDS_PURSE]
 Bourse-à-pasteur
@@ -8028,7 +8028,7 @@ Ajoute un Joker noir infligeant %s dégâts dans une petite zone.
 
 [HEROPLANT_12_SKILL_3]
 Joker rouge
-Ajoute un Joker rouge ayant %s%% de chances de rallier les zombies.
+Ajoute un Joker rouge ayant %s %% de chances de rallier les zombies.
 
 [HEROPLANT_12_SKILL_4]
 Donneur de cartes (niv.5)
@@ -8321,16 +8321,16 @@ Impossible d'exporter le ZIP de sauvegarde.
 À propos
 
 [NEW_OPTIONS_LANGUAGE_CHINESE]
-Chinois simplifié
+简体中文
 
 [NEW_OPTIONS_LANGUAGE_ENGLISH]
-Anglais
+English
 
 [NEW_OPTIONS_LANGUAGE_SPANISH]
-Espagnol
+Español
 
 [NEW_OPTIONS_LANGUAGE_TRADITIONAL_CHINESE]
-Chinois traditionnel
+繁體中文
 
 [NEW_OPTIONS_LOW_LATENCY_AUDIO]
 Audio à faible latence
@@ -9907,6 +9907,9 @@ Coop : Zomboss
 
 [COOP_ENDLESS]
 Coop : Infini
+
+[COOP_SUN_PLAYER]
+J{0}
 
 [ADVICE_DOUBLE_SUN]
 Placez les deux curseurs sur le double soleil pour le ramasser !
@@ -11908,7 +11911,7 @@ outil supérieur {0}
 aucune carte sélectionnée
 
 [A11Y_COOLDOWN]
-{0}% de recharge restante
+{0} % de recharge restante
 
 [A11Y_NOT_ENOUGH_SUN]
 pas assez de soleil
@@ -12272,8 +12275,11 @@ Des zombies sur votre pelouse (japonais)
 [NEW_OPTIONS_MV_LANGUAGE]
 Langue du clip
 
+[NEW_OPTIONS_MV_TRANSLATION]
+Afficher la traduction des paroles du MV
+
 [NEW_OPTIONS_LANGUAGE_JAPANESE]
-Japonais
+日本語
 
 [NEW_OPTIONS_HELP_MUSICVIDEOLANGUAGE]
 Choisissez chant et sous-titres anglais ou japonais pour le clip. Anglais par défaut, appliqué au prochain lancement du clip. L'interface ne change pas.
@@ -12282,22 +12288,139 @@ Choisissez chant et sous-titres anglais ou japonais pour le clip. Anglais par d�
 Français
 
 [NEW_OPTIONS_LANGUAGE_GERMAN]
-Allemand
+Deutsch
 
 [NEW_OPTIONS_LANGUAGE_ITALIAN]
-Italien
+Italiano
 
 [NEW_OPTIONS_LANGUAGE_RUSSIAN]
-Russe
+Русский
 
 [NEW_OPTIONS_LANGUAGE_KOREAN]
-Coréen
+한국어
 
 [NEW_OPTIONS_LANGUAGE_DUTCH]
-Néerlandais
+Nederlands
 
 [NEW_OPTIONS_LANGUAGE_BRAZILIAN_PORTUGUESE]
-Portugais (Brésil)
+Português (Brasil)
 
 [NEW_OPTIONS_LANGUAGE_SWEDISH]
-Suédois
+Svenska
+
+[GAMEPAD_DEADZONE_LABEL]
+Zone morte ({0}–{1})
+
+[GAMEPAD_DEADZONE_INVALID]
+La zone morte doit être comprise entre {0} et {1}.
+
+[CREDITS_LYRIC_LAWN_ZOMBIE]
+Il y a un zombie sur ta pelouse
+
+[CREDITS_LYRIC_NO_ZOMBIES]
+On ne veut pas de zombies sur la pelouse
+
+[CREDITS_LYRIC_TYPE]
+Je connais ton genre : grand, sombre et mort
+
+[CREDITS_LYRIC_BITE_PETALS]
+Tu veux dévorer tous les pétales de ma tête
+
+[CREDITS_LYRIC_THEN_BRAINS]
+Puis manger le cerveau
+
+[CREDITS_LYRIC_PLANTER]
+de celui qui m'a plantée ici
+
+[CREDITS_LYRIC_SUNFLOWER_SEE]
+Je ne suis qu'un tournesol, mais regarde
+
+[CREDITS_LYRIC_INFANTRY]
+comme j'alimente toute une infanterie
+
+[CREDITS_LYRIC_LIKE_BRAINS]
+Tu aimes le goût des cerveaux
+
+[CREDITS_LYRIC_DISLIKE_ZOMBIES]
+Nous, on n'aime pas les zombies
+
+[CREDITS_LYRIC_REEVALUATE]
+Il serait peut-être temps de reconsidérer tout ça
+
+[CREDITS_LYRIC_FOOD_PLATE]
+Je sais que ton assiette est bien remplie
+
+[CREDITS_LYRIC_CHOLESTEROL]
+Les cerveaux sont riches en cholestérol
+
+[CREDITS_LYRIC_DEAD]
+Tu es mort, alors peu importe, mais
+
+[CREDITS_LYRIC_SOLAR_POWER]
+On va utiliser cette énergie solaire
+
+[CREDITS_LYRIC_LAWN_DEFENSE]
+pour défendre la pelouse à toute heure
+
+[CREDITS_LYRIC_ZOMBIES_ARRIVED]
+Les zombies sont arrivés
+
+[CREDITS_LYRIC_ZOMBIES_LEFT]
+Les zombies sont partis
+
+[CREDITS_LYRIC_SCARY_SKELETONS]
+Les zombies sont des squelettes effrayants
+
+[CREDITS_LYRIC_TAKE_PETALS]
+Ils veulent arracher tous les pétales
+
+[CREDITS_LYRIC_THEN_HEAD]
+Et ensuite, ils veulent
+
+[CREDITS_LYRIC_EAT_IT]
+manger la tête
+
+[CREDITS_LYRIC_JUST_SUNFLOWER]
+Je ne suis qu'un tournesol
+
+[CREDITS_LYRIC_STRONG]
+Mais je suis forte
+
+[CREDITS_LYRIC_BACKYARD]
+Je veux jouer dans le jardin derrière
+
+[CREDITS_LYRIC_STOP_EATING]
+Arrêtez de manger des têtes
+
+[CREDITS_LYRIC_FIGHT_SOLAR]
+Je me battrai avec l'énergie solaire
+
+[CREDITS_LYRIC_SAVE_PLANTS]
+pour protéger les plantes
+
+[CREDITS_LYRIC_FOOTBALL]
+Avant, je jouais au football américain
+
+[CREDITS_LYRIC_CONE]
+Les cônes protègent ma tête
+
+[CREDITS_LYRIC_SCREEN_DOOR]
+J'ai une porte moustiquaire comme bouclier
+
+[CREDITS_LYRIC_TRICYCLE]
+J'aime ton tricycle
+
+[CREDITS_LYRIC_BUTTER]
+J'ai du beurre collé sur la tête
+
+[CREDITS_LYRIC_EAT_BRAINS]
+Je vais manger ton cerveau !
+
+[CREDITS_LYRIC_HELMET]
+J'ai mis un casque
+
+[CREDITS_LYRIC_HOLD_SCREEN_DOOR]
+J'ai aussi une porte moustiquaire
+
+[CREDITS_LYRIC_GIVE_TRICYCLE]
+Donne-moi ce tricycle

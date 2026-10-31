@@ -8313,16 +8313,16 @@ ZIP 내보내기
 정보
 
 [NEW_OPTIONS_LANGUAGE_CHINESE]
-중국어 간체
+简体中文
 
 [NEW_OPTIONS_LANGUAGE_ENGLISH]
-영어
+English
 
 [NEW_OPTIONS_LANGUAGE_SPANISH]
-스페인어
+Español
 
 [NEW_OPTIONS_LANGUAGE_TRADITIONAL_CHINESE]
-중국어 번체
+繁體中文
 
 [NEW_OPTIONS_LOW_LATENCY_AUDIO]
 저지연 오디오
@@ -9900,6 +9900,9 @@ Java 6-10
 
 [COOP_ENDLESS]
 동맹: 무한 모드
+
+[COOP_SUN_PLAYER]
+{0}P
 
 [ADVICE_DOUBLE_SUN]
 두 커서를 모두 두 배 햇빛 위로 옮겨 수집하세요!
@@ -12265,32 +12268,152 @@ Enter: Start, Backspace: Back, Esc: 기존 메뉴
 [NEW_OPTIONS_MV_LANGUAGE]
 뮤직비디오 언어
 
+[NEW_OPTIONS_MV_TRANSLATION]
+뮤직비디오 가사 번역 표시
+
 [NEW_OPTIONS_LANGUAGE_JAPANESE]
-일본어
+日本語
 
 [NEW_OPTIONS_HELP_MUSICVIDEOLANGUAGE]
 뮤직비디오의 노래와 자막 언어를 고릅니다. 기본값은 영어이며 다음 재생 때 적용됩니다. 화면 언어는 바뀌지 않습니다.
 
 [NEW_OPTIONS_LANGUAGE_FRENCH]
-프랑스어
+Français
 
 [NEW_OPTIONS_LANGUAGE_GERMAN]
-독일어
+Deutsch
 
 [NEW_OPTIONS_LANGUAGE_ITALIAN]
-이탈리아어
+Italiano
 
 [NEW_OPTIONS_LANGUAGE_RUSSIAN]
-러시아어
+Русский
 
 [NEW_OPTIONS_LANGUAGE_KOREAN]
 한국어
 
 [NEW_OPTIONS_LANGUAGE_DUTCH]
-네덜란드어
+Nederlands
 
 [NEW_OPTIONS_LANGUAGE_BRAZILIAN_PORTUGUESE]
-포르투갈어 (브라질)
+Português (Brasil)
 
 [NEW_OPTIONS_LANGUAGE_SWEDISH]
-스웨덴어
+Svenska
+
+[GAMEPAD_DEADZONE_LABEL]
+데드존 ({0}–{1})
+
+[GAMEPAD_DEADZONE_INVALID]
+데드존은 {0}에서 {1} 사이여야 합니다.
+
+[CREDITS_LYRIC_LAWN_ZOMBIE]
+네 잔디밭에 좀비가 있어
+
+[CREDITS_LYRIC_NO_ZOMBIES]
+우린 잔디밭에 좀비를 원치 않아
+
+[CREDITS_LYRIC_TYPE]
+너 같은 녀석은 알아, 키 크고 음침한 시체지
+
+[CREDITS_LYRIC_BITE_PETALS]
+내 머리의 꽃잎을 모조리 물어뜯고 싶겠지
+
+[CREDITS_LYRIC_THEN_BRAINS]
+그러고는 그 사람의 뇌까지 먹으려 하겠지
+
+[CREDITS_LYRIC_PLANTER]
+나를 여기에 심어 준 사람 말이야
+
+[CREDITS_LYRIC_SUNFLOWER_SEE]
+난 그저 해바라기지만, 잘 봐
+
+[CREDITS_LYRIC_INFANTRY]
+보병 부대 전체에 힘을 줄 수 있어
+
+[CREDITS_LYRIC_LIKE_BRAINS]
+넌 뇌의 맛을 좋아하지
+
+[CREDITS_LYRIC_DISLIKE_ZOMBIES]
+우린 좀비를 싫어해
+
+[CREDITS_LYRIC_REEVALUATE]
+이제 다시 생각해 볼 때야
+
+[CREDITS_LYRIC_FOOD_PLATE]
+네 접시에 먹을 게 많은 건 알아
+
+[CREDITS_LYRIC_CHOLESTEROL]
+뇌에는 콜레스테롤이 가득해
+
+[CREDITS_LYRIC_DEAD]
+이미 죽었으니 상관없겠지만
+
+[CREDITS_LYRIC_SOLAR_POWER]
+우린 이 태양 에너지를 써서
+
+[CREDITS_LYRIC_LAWN_DEFENSE]
+언제든 잔디밭을 지킬 거야
+
+[CREDITS_LYRIC_ZOMBIES_ARRIVED]
+좀비들이 왔어
+
+[CREDITS_LYRIC_ZOMBIES_LEFT]
+좀비들이 떠났어
+
+[CREDITS_LYRIC_SCARY_SKELETONS]
+좀비는 무서운 해골이야
+
+[CREDITS_LYRIC_TAKE_PETALS]
+꽃잎을 전부 떼어 내려고 해
+
+[CREDITS_LYRIC_THEN_HEAD]
+그러고는 머리를
+
+[CREDITS_LYRIC_EAT_IT]
+먹으려고 해
+
+[CREDITS_LYRIC_JUST_SUNFLOWER]
+난 그저 해바라기야
+
+[CREDITS_LYRIC_STRONG]
+하지만 난 강해
+
+[CREDITS_LYRIC_BACKYARD]
+뒷마당에서 놀고 싶어
+
+[CREDITS_LYRIC_STOP_EATING]
+머리 좀 그만 먹어
+
+[CREDITS_LYRIC_FIGHT_SOLAR]
+태양 에너지로 싸울 거야
+
+[CREDITS_LYRIC_SAVE_PLANTS]
+식물들을 지키기 위해
+
+[CREDITS_LYRIC_FOOTBALL]
+난 예전에 미식축구를 했지
+
+[CREDITS_LYRIC_CONE]
+도로용 콘이 내 머리를 지켜
+
+[CREDITS_LYRIC_SCREEN_DOOR]
+난 방충망 문 방패가 있어
+
+[CREDITS_LYRIC_TRICYCLE]
+네 세발자전거가 마음에 들어
+
+[CREDITS_LYRIC_BUTTER]
+내 머리에 버터가 붙었어
+
+[CREDITS_LYRIC_EAT_BRAINS]
+네 뇌를 먹어 버릴 거야!
+
+[CREDITS_LYRIC_HELMET]
+난 헬멧을 썼어
+
+[CREDITS_LYRIC_HOLD_SCREEN_DOOR]
+방충망 문도 들고 있어
+
+[CREDITS_LYRIC_GIVE_TRICYCLE]
+그 세발자전거를 줘

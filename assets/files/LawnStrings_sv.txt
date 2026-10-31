@@ -6420,15 +6420,15 @@ Tålighet
 
 [HEROPLANT_0_SKILL_2]
 Laserögon
-%s%% chans att skjuta laser genom en rad zombier.
+%s %% chans att skjuta laser genom en rad zombier.
 
 [HEROPLANT_0_SKILL_3]
 Luftrobot
-%s%% chans att skjuta en högt flygande robot som gör stor skada vid nedslag.
+%s %% chans att skjuta en högt flygande robot som gör stor skada vid nedslag.
 
 [HEROPLANT_0_SKILL_4]
 Vila (från hjältenivå 5)
-Återfår %s%% hälsa när hjälten inte angrips.
+Återfår %s %% hälsa när hjälten inte angrips.
 
 [HEROPLANT_0_SKILL_5]
 Oövervinnerlig sköld (från hjältenivå 10)
@@ -6440,15 +6440,15 @@ Molnfärd
 
 [HEROPLANT_1_SKILL_2]
 Ärtkrigare
-Ökar attackfrekvensen för ärtväxter i de 9 omgivande rutorna med %s%%.
+Ökar attackfrekvensen för ärtväxter i de 9 omgivande rutorna med %s %%.
 
 [HEROPLANT_1_SKILL_3]
 Eldblick
-%s%% chans att bränna alla zombier en ruta framför.
+%s %% chans att bränna alla zombier en ruta framför.
 
 [HEROPLANT_1_SKILL_4]
 Snabbhet (från hjältenivå 5)
-Ökar attackfrekvensen med %s%%.
+Ökar attackfrekvensen med %s %%.
 
 [HEROPLANT_1_SKILL_5]
 Gyllene stav (från hjältenivå 10)
@@ -6460,7 +6460,7 @@ Tålighet
 
 [HEROPLANT_2_SKILL_2]
 Uppvaknande
-Minskar attackintervallet med %s%%.
+Minskar attackintervallet med %s %%.
 
 [HEROPLANT_2_SKILL_3]
 Kratta
@@ -6468,7 +6468,7 @@ Skapar var %s:e sekund en kratta på en slumpmässig plats till höger.
 
 [HEROPLANT_2_SKILL_4]
 Girighet (från hjältenivå 5)
-Dödade zombier har %s%% chans att släppa mynt.
+Dödade zombier har %s %% chans att släppa mynt.
 
 [HEROPLANT_2_SKILL_5]
 Jordskalv (från hjältenivå 10)
@@ -6480,15 +6480,15 @@ Tålighet
 
 [HEROPLANT_3_SKILL_2]
 Reflektion
-Återkastar %s%% av mottagen skada.
+Återkastar %s %% av mottagen skada.
 
 [HEROPLANT_3_SKILL_3]
 Återhämtning
-Återfår %s%% hälsa per sekund när hjälten inte angrips.
+Återfår %s %% hälsa per sekund när hjälten inte angrips.
 
 [HEROPLANT_3_SKILL_4]
 Seghet (från hjältenivå 5)
-Ökar andra nötväxters maximala hälsa med %s%%.
+Ökar andra nötväxters maximala hälsa med %s %%.
 
 [HEROPLANT_3_SKILL_5]
 Utbrott (från hjältenivå 10)
@@ -6496,7 +6496,7 @@ Rullar framåt vid låg hälsa och krossar alla zombier framför. Laddningstid: 
 
 [HEROPLANT_4_SKILL_1]
 Överklockning
-Ökar solproduktionshastigheten med %s%%.
+Ökar solproduktionshastigheten med %s %%.
 
 [HEROPLANT_4_SKILL_2]
 Vigning
@@ -6516,11 +6516,11 @@ Stoppar alla zombier i 1,5 sekunder var %s:e sekund.
 
 [HEROPLANT_8_SKILL_1]
 Aura
-Ökar växters projektilskada i de 9 omgivande rutorna med %s%%.
+Ökar växters projektilskada i de 9 omgivande rutorna med %s %%.
 
 [HEROPLANT_8_SKILL_2]
 Omvändelse
-%s%% chans på en gyllene tagg; zombier som dödas av den lämnar 25 sol.
+%s %% chans på en gyllene tagg; zombier som dödas av den lämnar 25 sol.
 
 [HEROPLANT_8_SKILL_3]
 Betvingande
@@ -6528,7 +6528,7 @@ Omvänder zombien närmast slutlinjen var %s:e sekund.
 
 [HEROPLANT_8_SKILL_4]
 Snabbhet (från hjältenivå 5)
-Ökar grundläggande attackfrekvens med %s%%.
+Ökar grundläggande attackfrekvens med %s %%.
 
 [HEROPLANT_8_SKILL_5]
 Pilbindning (från hjältenivå 10)
@@ -6540,7 +6540,7 @@ Blåser bort zombien närmast slutlinjen från fältet var %s:e sekund.
 
 [HEROPLANT_6_SKILL_2]
 Klöver
-Har regelbundet %s%% chans att skjuta en klöver.
+Har regelbundet %s %% chans att skjuta en klöver.
 
 [HEROPLANT_6_SKILL_3]
 Uppmuntran
@@ -6548,7 +6548,7 @@ Med fler än 3 zombier ökas attackfrekvensen regelbundet kraftigt i %s sekunder
 
 [HEROPLANT_6_SKILL_4]
 Smidighet (från hjältenivå 5)
-Ökar rörelsehastigheten med %s%%.
+Ökar rörelsehastigheten med %s %%.
 
 [HEROPLANT_6_SKILL_5]
 Storm (från hjältenivå 10)
@@ -6556,19 +6556,19 @@ Blåser bort zombieutrustning med en storm var %s:e sekund.
 
 [HEROPLANT_7_SKILL_1]
 Träning
-Ökar grundskadan med %s%%.
+Ökar grundskadan med %s %%.
 
 [HEROPLANT_7_SKILL_2]
 Isskott
-Vanliga attacker har %s%% chans på ett litet isskott som fryser en zombie.
+Vanliga attacker har %s %% chans på ett litet isskott som fryser en zombie.
 
 [HEROPLANT_7_SKILL_3]
 Drakprins
-Varje Sockerärta och Vintermelon i de 9 omgivande rutorna ökar skadan med %s%%.
+Varje Sockerärta och Vintermelon i de 9 omgivande rutorna ökar skadan med %s %%.
 
 [HEROPLANT_7_SKILL_4]
 Bitande kyla (från hjältenivå 5)
-Minskar alla zombiers attackhastighet i de 9 omgivande rutorna med %s%%.
+Minskar alla zombiers attackhastighet i de 9 omgivande rutorna med %s %%.
 
 [HEROPLANT_7_SKILL_5]
 Isbomb (från hjältenivå 10)
@@ -6576,15 +6576,15 @@ Skjuter var %s:e sekund en stor isbomb som fryser zombier runt träffen.
 
 [HEROPLANT_5_SKILL_1]
 Flamskott
-Varje attack har %s%% chans att skjuta ett eldklot.
+Varje attack har %s %% chans att skjuta ett eldklot.
 
 [HEROPLANT_5_SKILL_2]
 Snabbeld
-Varje dödad zombie ökar attackhastigheten med %s%% i 10 sekunder.
+Varje dödad zombie ökar attackhastigheten med %s %% i 10 sekunder.
 
 [HEROPLANT_5_SKILL_3]
 Himmelsöga
-%s%% chans att projektiler tränger genom alla zombier.
+%s %% chans att projektiler tränger genom alla zombier.
 
 [HEROPLANT_5_SKILL_4]
 Lotusåterfödelse (från hjältenivå 5)
@@ -6600,7 +6600,7 @@ Kan teleportera till målet var %s:e sekund.
 
 [HEROPLANT_9_SKILL_2]
 Sköldmur
-Halverar mottagen skada under %s%% hälsa.
+Halverar mottagen skada under %s %% hälsa.
 
 [HEROPLANT_9_SKILL_3]
 Hämnd
@@ -6608,7 +6608,7 @@ Kan vid träff krossa zombier en ruta framför med ett föremål för %s skada.
 
 [HEROPLANT_9_SKILL_4]
 Himmelskung (från hjältenivå 5)
-Läker stillastående närliggande växter med %s%% hälsa per sekund.
+Läker stillastående närliggande växter med %s %% hälsa per sekund.
 
 [HEROPLANT_9_SKILL_5]
 Gyllene klocka (från hjältenivå 10)
@@ -6627,7 +6627,7 @@ Höj hjälteväxtens nivå direkt för %d guldtackor?
 Återuppliva hjälteväxten direkt för %d guldtackor?
 
 [SKILL_EXTRA_RATE_STRING]
-(nästa nivå: %s%)
+(nästa nivå: %s %)
 
 [SKILL_EXTRA_NUMBER_STRING]
 (nästa nivå: %s)
@@ -7300,7 +7300,7 @@ Bedövar närliggande zombier i %s sekunder när han blir biten. Väntetid: 5 se
 
 [HEROPLANT_10_SKILL_4]
 Återvändande själar (från hjältenivå 5)
-Kallar fram tre allierade zombiesjälar var 50:e sekund, med %s%% chans att kalla fram en marskalkzombie.
+Kallar fram tre allierade zombiesjälar var 50:e sekund, med %s %% chans att kalla fram en marskalkzombie.
 
 [HEROPLANT_10_SKILL_5]
 Zhongkuis svärd (från hjältenivå 10)
@@ -7833,19 +7833,19 @@ Snabbhet
 
 [HEROPLANT_11_SKILL_2]
 Uppvaknande
-Minskar tiden för bytet från svart till vit svamp med %s%%.
+Minskar tiden för bytet från svart till vit svamp med %s %%.
 
 [HEROPLANT_11_SKILL_3]
 Magisk hypnos
-Vid bytet från svart till vit svamp finns %s%% chans till en extra attack.
+Vid bytet från svart till vit svamp finns %s %% chans till en extra attack.
 
 [HEROPLANT_11_SKILL_4]
 Tvillingar (från hjältenivå 5)
-När den svarta svampen attackerar finns %s%% chans att skjuta en extra hypnosbubbla mot ett annat mål.
+När den svarta svampen attackerar finns %s %% chans att skjuta en extra hypnosbubbla mot ett annat mål.
 
 [HEROPLANT_11_SKILL_5]
 Helig hypnos (från hjältenivå 10)
-När den vita svampen hypnotiserar en zombie finns %s%% chans att hypnotisera alla zombier inom 3x3 rutor.
+När den vita svampen hypnotiserar en zombie finns %s %% chans att hypnotisera alla zombier inom 3x3 rutor.
 
 [ULTIMATE_SHEPHERDS_PURSE]
 Läkelomme
@@ -8013,7 +8013,7 @@ Lägger till en liten joker i varje lek som gör %s skada i ett litet område.
 
 [HEROPLANT_12_SKILL_3]
 Stor joker
-Lägger till en stor joker i varje lek med %s%% chans att hypnotisera målet.
+Lägger till en stor joker i varje lek med %s %% chans att hypnotisera målet.
 
 [HEROPLANT_12_SKILL_4]
 Dela kort (från hjältenivå 5)
@@ -8306,16 +8306,16 @@ Kan inte exportera ZIP med sparfiler.
 Om
 
 [NEW_OPTIONS_LANGUAGE_CHINESE]
-Förenklad kinesiska
+简体中文
 
 [NEW_OPTIONS_LANGUAGE_ENGLISH]
-Engelska
+English
 
 [NEW_OPTIONS_LANGUAGE_SPANISH]
-Spanska
+Español
 
 [NEW_OPTIONS_LANGUAGE_TRADITIONAL_CHINESE]
-Traditionell kinesiska
+繁體中文
 
 [NEW_OPTIONS_LOW_LATENCY_AUDIO]
 Ljud med låg latens
@@ -9893,6 +9893,9 @@ Allians: zombieboss
 
 [COOP_ENDLESS]
 Allians: oändligt läge
+
+[COOP_SUN_PLAYER]
+S{0}
 
 [ADVICE_DOUBLE_SUN]
 Flytta båda pekarna till dubbelsolen för att samla den!
@@ -11894,7 +11897,7 @@ Hammare
 Inget kort valt
 
 [A11Y_COOLDOWN]
-{0}% väntetid
+{0} % väntetid
 
 [A11Y_NOT_ENOUGH_SUN]
 För lite sol
@@ -12258,32 +12261,152 @@ Zombier på din gräsmatta (japanska)
 [NEW_OPTIONS_MV_LANGUAGE]
 Musikvideospråk
 
+[NEW_OPTIONS_MV_TRANSLATION]
+Visa översättning av MV-låttext
+
 [NEW_OPTIONS_LANGUAGE_JAPANESE]
-Japanska
+日本語
 
 [NEW_OPTIONS_HELP_MUSICVIDEOLANGUAGE]
 Välj musikvideons sång- och undertextspråk, engelska som standard. Gäller nästa gång videon öppnas och ändrar inte gränssnittsspråket.
 
 [NEW_OPTIONS_LANGUAGE_FRENCH]
-Franska
+Français
 
 [NEW_OPTIONS_LANGUAGE_GERMAN]
-Tyska
+Deutsch
 
 [NEW_OPTIONS_LANGUAGE_ITALIAN]
-Italienska
+Italiano
 
 [NEW_OPTIONS_LANGUAGE_RUSSIAN]
-Ryska
+Русский
 
 [NEW_OPTIONS_LANGUAGE_KOREAN]
-Koreanska
+한국어
 
 [NEW_OPTIONS_LANGUAGE_DUTCH]
-Nederländska
+Nederlands
 
 [NEW_OPTIONS_LANGUAGE_BRAZILIAN_PORTUGUESE]
-Portugisiska (Brasilien)
+Português (Brasil)
 
 [NEW_OPTIONS_LANGUAGE_SWEDISH]
 Svenska
+
+[GAMEPAD_DEADZONE_LABEL]
+Dödzon ({0}–{1})
+
+[GAMEPAD_DEADZONE_INVALID]
+Dödzonen måste vara mellan {0} och {1}.
+
+[CREDITS_LYRIC_LAWN_ZOMBIE]
+Det står en zombie på din gräsmatta
+
+[CREDITS_LYRIC_NO_ZOMBIES]
+Vi vill inte ha zombier på gräsmattan
+
+[CREDITS_LYRIC_TYPE]
+Jag känner din typ: lång, mörk och död
+
+[CREDITS_LYRIC_BITE_PETALS]
+Du vill bita av alla kronbladen på mitt huvud
+
+[CREDITS_LYRIC_THEN_BRAINS]
+Och sedan äta hjärnan
+
+[CREDITS_LYRIC_PLANTER]
+på den som planterade mig här
+
+[CREDITS_LYRIC_SUNFLOWER_SEE]
+Jag är bara en solros, men se
+
+[CREDITS_LYRIC_INFANTRY]
+hur jag ger energi åt ett helt infanteri
+
+[CREDITS_LYRIC_LIKE_BRAINS]
+Du gillar smaken av hjärnor
+
+[CREDITS_LYRIC_DISLIKE_ZOMBIES]
+Vi gillar inte zombier
+
+[CREDITS_LYRIC_REEVALUATE]
+Det kanske är dags att tänka om
+
+[CREDITS_LYRIC_FOOD_PLATE]
+Jag vet att du har mycket mat på tallriken
+
+[CREDITS_LYRIC_CHOLESTEROL]
+Hjärnor är fulla av kolesterol
+
+[CREDITS_LYRIC_DEAD]
+Du är död, så det spelar ingen roll, men
+
+[CREDITS_LYRIC_SOLAR_POWER]
+Vi använder den här solenergin
+
+[CREDITS_LYRIC_LAWN_DEFENSE]
+för att försvara gräsmattan dygnet runt
+
+[CREDITS_LYRIC_ZOMBIES_ARRIVED]
+Zombierna har kommit
+
+[CREDITS_LYRIC_ZOMBIES_LEFT]
+Zombierna har gått
+
+[CREDITS_LYRIC_SCARY_SKELETONS]
+Zombier är läskiga skelett
+
+[CREDITS_LYRIC_TAKE_PETALS]
+De vill plocka bort alla kronblad
+
+[CREDITS_LYRIC_THEN_HEAD]
+Och sedan vill de
+
+[CREDITS_LYRIC_EAT_IT]
+äta upp huvudet
+
+[CREDITS_LYRIC_JUST_SUNFLOWER]
+Jag är bara en solros
+
+[CREDITS_LYRIC_STRONG]
+Men jag är stark
+
+[CREDITS_LYRIC_BACKYARD]
+Jag vill leka på bakgården
+
+[CREDITS_LYRIC_STOP_EATING]
+Sluta äta huvuden
+
+[CREDITS_LYRIC_FIGHT_SOLAR]
+Jag slåss med solenergi
+
+[CREDITS_LYRIC_SAVE_PLANTS]
+för att skydda växterna
+
+[CREDITS_LYRIC_FOOTBALL]
+Jag brukade spela amerikansk fotboll
+
+[CREDITS_LYRIC_CONE]
+Trafikkoner skyddar mitt huvud
+
+[CREDITS_LYRIC_SCREEN_DOOR]
+Jag har en nätdörr som sköld
+
+[CREDITS_LYRIC_TRICYCLE]
+Jag gillar din trehjuling
+
+[CREDITS_LYRIC_BUTTER]
+Det sitter smör på mitt huvud
+
+[CREDITS_LYRIC_EAT_BRAINS]
+Jag ska äta din hjärna!
+
+[CREDITS_LYRIC_HELMET]
+Jag har satt på mig en hjälm
+
+[CREDITS_LYRIC_HOLD_SCREEN_DOOR]
+Jag har en nätdörr också
+
+[CREDITS_LYRIC_GIVE_TRICYCLE]
+Ge mig den där trehjulingen

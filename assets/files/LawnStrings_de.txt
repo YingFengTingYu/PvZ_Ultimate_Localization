@@ -6434,15 +6434,15 @@ Erhöht die maximale Gesundheit um %s.
 
 [HEROPLANT_0_SKILL_2]
 Laserauge
-Feuert mit %s%% Wahrscheinlichkeit einen Laser durch eine ganze Zombiereihe.
+Feuert mit %s %% Wahrscheinlichkeit einen Laser durch eine ganze Zombiereihe.
 
 [HEROPLANT_0_SKILL_3]
 Ballistische Rakete
-Startet mit %s%% Wahrscheinlichkeit eine Rakete, die beim Einschlag hohen Schaden verursacht.
+Startet mit %s %% Wahrscheinlichkeit eine Rakete, die beim Einschlag hohen Schaden verursacht.
 
 [HEROPLANT_0_SKILL_4]
 Erholung (St.5)
-Heilt ohne eingehende Angriffe %s%% der maximalen Gesundheit.
+Heilt ohne eingehende Angriffe %s %% der maximalen Gesundheit.
 
 [HEROPLANT_0_SKILL_5]
 Unbesiegbarer Schild (St.10)
@@ -6454,15 +6454,15 @@ Erhöht die Bewegungsgeschwindigkeit um %s.
 
 [HEROPLANT_1_SKILL_2]
 Erbsenkriegsgott
-Erhöht die Angriffsgeschwindigkeit aller Erbsenpflanzen im umliegenden 3x3-Bereich um %s%%.
+Erhöht die Angriffsgeschwindigkeit aller Erbsenpflanzen im umliegenden 3x3-Bereich um %s %%.
 
 [HEROPLANT_1_SKILL_3]
 Feurige Goldaugen
-Verbrennt mit %s%% Wahrscheinlichkeit alle Zombies im Feld direkt voraus durch einen Feuerblick.
+Verbrennt mit %s %% Wahrscheinlichkeit alle Zombies im Feld direkt voraus durch einen Feuerblick.
 
 [HEROPLANT_1_SKILL_4]
 Göttliche Eile (St.5)
-Erhöht die Feuerrate um %s%%.
+Erhöht die Feuerrate um %s %%.
 
 [HEROPLANT_1_SKILL_5]
 Goldener Stab (St.10)
@@ -6474,7 +6474,7 @@ Erhöht die maximale Gesundheit um %s.
 
 [HEROPLANT_2_SKILL_2]
 Erwachen
-Verkürzt die Angriffsabklingzeit um %s%%.
+Verkürzt die Angriffsabklingzeit um %s %%.
 
 [HEROPLANT_2_SKILL_3]
 Rechen
@@ -6482,7 +6482,7 @@ Platziert alle %s Sekunden zufällig einen Rechen auf der rechten Rasenseite.
 
 [HEROPLANT_2_SKILL_4]
 Habgier (St.5)
-Vom Helden besiegte Zombies lassen mit %s%% Wahrscheinlichkeit eine Goldmünze fallen.
+Vom Helden besiegte Zombies lassen mit %s %% Wahrscheinlichkeit eine Goldmünze fallen.
 
 [HEROPLANT_2_SKILL_5]
 Erdbeben (St.10)
@@ -6494,15 +6494,15 @@ Erhöht die maximale Gesundheit um %s.
 
 [HEROPLANT_3_SKILL_2]
 Reflexion
-Wirft %s%% des am Helden verursachten Schadens zurück.
+Wirft %s %% des am Helden verursachten Schadens zurück.
 
 [HEROPLANT_3_SKILL_3]
 Erholung
-Regeneriert ohne Angriffe pro Sekunde %s%% Gesundheit.
+Regeneriert ohne Angriffe pro Sekunde %s %% Gesundheit.
 
 [HEROPLANT_3_SKILL_4]
 Zähigkeit (St.5)
-Erhöht die maximale Gesundheit anderer Nusspflanzen auf dem Rasen um %s%%.
+Erhöht die maximale Gesundheit anderer Nusspflanzen auf dem Rasen um %s %%.
 
 [HEROPLANT_3_SKILL_5]
 Ausbruch (St.10)
@@ -6510,7 +6510,7 @@ Bei geringer Gesundheit rollt Wujing-Nuss vorwärts und zerquetscht alle Zombies
 
 [HEROPLANT_4_SKILL_1]
 Übertaktung
-Erhöht die Sonnenproduktion um %s%%.
+Erhöht die Sonnenproduktion um %s %%.
 
 [HEROPLANT_4_SKILL_2]
 Weihe
@@ -6530,11 +6530,11 @@ Spricht alle %s Sekunden einen Bann, der alle Zombies 1.5 Sekunden lang betäubt
 
 [HEROPLANT_8_SKILL_1]
 Aura
-Erhöht den Projektilschaden von Pflanzen im umliegenden 3x3-Bereich um %s%%.
+Erhöht den Projektilschaden von Pflanzen im umliegenden 3x3-Bereich um %s %%.
 
 [HEROPLANT_8_SKILL_2]
 Bekehrung
-Feuert mit %s%% Wahrscheinlichkeit einen goldenen Stachel. Dadurch besiegte Zombies hinterlassen 25 Sonnen.
+Feuert mit %s %% Wahrscheinlichkeit einen goldenen Stachel. Dadurch besiegte Zombies hinterlassen 25 Sonnen.
 
 [HEROPLANT_8_SKILL_3]
 Unterwerfen
@@ -6542,7 +6542,7 @@ Bekehrt alle %s Sekunden den Zombie, der deinem Haus am nächsten ist.
 
 [HEROPLANT_8_SKILL_4]
 Göttliche Eile (St.5)
-Erhöht die Feuerrate um %s%%.
+Erhöht die Feuerrate um %s %%.
 
 [HEROPLANT_8_SKILL_5]
 Weidenzweig (St.10)
@@ -6554,7 +6554,7 @@ Bläst alle %s Sekunden den dem Haus nächsten Zombie vom Rasen.
 
 [HEROPLANT_6_SKILL_2]
 Klee
-Feuert regelmäßig mit %s%% Wahrscheinlichkeit ein Kleeblatt.
+Feuert regelmäßig mit %s %% Wahrscheinlichkeit ein Kleeblatt.
 
 [HEROPLANT_6_SKILL_3]
 Ansporn
@@ -6562,7 +6562,7 @@ Sind mehr als 3 Zombies auf dem Rasen, steigt die Angriffsgeschwindigkeit regelm
 
 [HEROPLANT_6_SKILL_4]
 Wendigkeit (St.5)
-Erhöht die Bewegungsgeschwindigkeit um %s%%.
+Erhöht die Bewegungsgeschwindigkeit um %s %%.
 
 [HEROPLANT_6_SKILL_5]
 Sturm (St.10)
@@ -6570,19 +6570,19 @@ Bläst alle %s Sekunden die Ausrüstung der Zombies auf dem Rasen weg.
 
 [HEROPLANT_7_SKILL_1]
 Schulung
-Erhöht den Grundangriffsschaden um %s%%.
+Erhöht den Grundangriffsschaden um %s %%.
 
 [HEROPLANT_7_SKILL_2]
 Eisschuss
-Normale Angriffe feuern mit %s%% Wahrscheinlichkeit einen kleinen Eisschuss, der einen Zombie einfriert.
+Normale Angriffe feuern mit %s %% Wahrscheinlichkeit einen kleinen Eisschuss, der einen Zombie einfriert.
 
 [HEROPLANT_7_SKILL_3]
 Drachenprinz
-Jede Hagelzuckererbse und Wintermelone im umliegenden 3x3-Bereich erhöht den Angriffsschaden dieses Helden um %s%%.
+Jede Hagelzuckererbse und Wintermelone im umliegenden 3x3-Bereich erhöht den Angriffsschaden dieses Helden um %s %%.
 
 [HEROPLANT_7_SKILL_4]
 Bittere Kälte (St.5)
-Verringert die Angriffsgeschwindigkeit aller Zombies im umliegenden 3x3-Bereich um %s%%.
+Verringert die Angriffsgeschwindigkeit aller Zombies im umliegenden 3x3-Bereich um %s %%.
 
 [HEROPLANT_7_SKILL_5]
 Eisbombe (St.10)
@@ -6590,15 +6590,15 @@ Feuert alle %s Sekunden einen großen Eisschuss ab, der Zombies am Einschlagspun
 
 [HEROPLANT_5_SKILL_1]
 Erbsenzündung
-Feuert mit %s%% Wahrscheinlichkeit einen Feuerball statt einer normalen Erbse.
+Feuert mit %s %% Wahrscheinlichkeit einen Feuerball statt einer normalen Erbse.
 
 [HEROPLANT_5_SKILL_2]
 Schnelle Kombo
-Jeder besiegte Zombie erhöht die Feuerrate 10 Sekunden lang um %s%%.
+Jeder besiegte Zombie erhöht die Feuerrate 10 Sekunden lang um %s %%.
 
 [HEROPLANT_5_SKILL_3]
 Himmelsblick
-Projektile des Helden durchdringen mit %s%% Wahrscheinlichkeit Zombies.
+Projektile des Helden durchdringen mit %s %% Wahrscheinlichkeit Zombies.
 
 [HEROPLANT_5_SKILL_4]
 Lotus-Wiedergeburt (St.5)
@@ -6614,7 +6614,7 @@ Kann alle %s Sekunden sofort zum gewählten Ziel teleportieren.
 
 [HEROPLANT_9_SKILL_2]
 Schildwall
-Halbiert eingehenden Schaden, wenn die Gesundheit unter %s%% fällt.
+Halbiert eingehenden Schaden, wenn die Gesundheit unter %s %% fällt.
 
 [HEROPLANT_9_SKILL_3]
 Vergeltung
@@ -6622,7 +6622,7 @@ Kann bei Angriffen einen Gegenstand aktivieren, der Zombies im Feld voraus zerqu
 
 [HEROPLANT_9_SKILL_4]
 Himmelskönig (St.5)
-Heilt im Stillstand umliegende Pflanzen jede Sekunde um %s%% ihrer maximalen Gesundheit.
+Heilt im Stillstand umliegende Pflanzen jede Sekunde um %s %% ihrer maximalen Gesundheit.
 
 [HEROPLANT_9_SKILL_5]
 Goldener Schild (St.10)
@@ -6641,7 +6641,7 @@ Möchtest du die Fähigkeiten deines Helden für %d Goldbarren zurücksetzen?
 Möchtest du deinen Helden für %d Goldbarren sofort wiederbeleben?
 
 [SKILL_EXTRA_RATE_STRING]
- (Nächste Stufe: %s%)
+ (Nächste Stufe: %s %)
 
 [SKILL_EXTRA_NUMBER_STRING]
  (Nächste Stufe: %s)
@@ -7313,7 +7313,7 @@ Betäubt bei Bissen alle 5 Sekunden nahe Zombies für %s Sekunden.
 
 [HEROPLANT_10_SKILL_4]
 Geisterrückkehr (St.5)
-Beschwört drei verbündete Zombiegeister; mit %s%% Wahrscheinlichkeit Marschall-Zombies. Abklingzeit: 50 Sekunden.
+Beschwört drei verbündete Zombiegeister; mit %s %% Wahrscheinlichkeit Marschall-Zombies. Abklingzeit: 50 Sekunden.
 
 [HEROPLANT_10_SKILL_5]
 Zhong Kuis Schwert (St.10)
@@ -7846,19 +7846,19 @@ Erhöht die Bewegungsgeschwindigkeit um %s.
 
 [HEROPLANT_11_SKILL_2]
 Erwachen
-Verkürzt den Wechsel vom schwarzen zum weißen Pilz um %s%%.
+Verkürzt den Wechsel vom schwarzen zum weißen Pilz um %s %%.
 
 [HEROPLANT_11_SKILL_3]
 Dämonische Hypnose
-Führt beim Wechsel vom schwarzen zum weißen Pilz mit %s%% Wahrscheinlichkeit einen Zusatzangriff aus.
+Führt beim Wechsel vom schwarzen zum weißen Pilz mit %s %% Wahrscheinlichkeit einen Zusatzangriff aus.
 
 [HEROPLANT_11_SKILL_4]
 Zwillinge (St.5)
-Angriffe des schwarzen Pilzes feuern mit %s%% Wahrscheinlichkeit eine weitere Hypnoseblase auf ein anderes Ziel.
+Angriffe des schwarzen Pilzes feuern mit %s %% Wahrscheinlichkeit eine weitere Hypnoseblase auf ein anderes Ziel.
 
 [HEROPLANT_11_SKILL_5]
 Kaiserliche Kontrolle (St.10)
-Angriffe des weißen Pilzes hypnotisieren mit %s%% Wahrscheinlichkeit alle Zombies in 3x3 Feldern.
+Angriffe des weißen Pilzes hypnotisieren mit %s %% Wahrscheinlichkeit alle Zombies in 3x3 Feldern.
 
 [ULTIMATE_SHEPHERDS_PURSE]
 Hirtentäschel
@@ -8026,7 +8026,7 @@ Fügt einen schwarzen Joker hinzu, der in einem kleinen Bereich %s Schaden verur
 
 [HEROPLANT_12_SKILL_3]
 Roter Joker
-Fügt einen roten Joker hinzu, der Zombies mit %s%% Wahrscheinlichkeit bekehrt.
+Fügt einen roten Joker hinzu, der Zombies mit %s %% Wahrscheinlichkeit bekehrt.
 
 [HEROPLANT_12_SKILL_4]
 Kartengeber (St.5)
@@ -8319,16 +8319,16 @@ Spielstand-ZIP konnte nicht exportiert werden.
 Info
 
 [NEW_OPTIONS_LANGUAGE_CHINESE]
-Chinesisch (vereinfacht)
+简体中文
 
 [NEW_OPTIONS_LANGUAGE_ENGLISH]
-Englisch
+English
 
 [NEW_OPTIONS_LANGUAGE_SPANISH]
-Spanisch
+Español
 
 [NEW_OPTIONS_LANGUAGE_TRADITIONAL_CHINESE]
-Chinesisch (traditionell)
+繁體中文
 
 [NEW_OPTIONS_LOW_LATENCY_AUDIO]
 Audio mit geringer Latenz
@@ -9905,6 +9905,9 @@ Co-op: Zomboss
 
 [COOP_ENDLESS]
 Co-op: Endlos
+
+[COOP_SUN_PLAYER]
+S{0}
 
 [ADVICE_DOUBLE_SUN]
 Schieb beide Cursors über die Doppelsonne, um sie aufzunehmen!
@@ -11906,7 +11909,7 @@ oberes Werkzeug {0}
 keine Karte gewählt
 
 [A11Y_COOLDOWN]
-Noch {0}% Abklingzeit
+Noch {0} % Abklingzeit
 
 [A11Y_NOT_ENOUGH_SUN]
 Nicht genug Sonnen!
@@ -12270,32 +12273,152 @@ Zombies auf deinem Rasen (Japanisch)
 [NEW_OPTIONS_MV_LANGUAGE]
 Musikvideosprache
 
+[NEW_OPTIONS_MV_TRANSLATION]
+MV-Liedübersetzung anzeigen
+
 [NEW_OPTIONS_LANGUAGE_JAPANESE]
-Japanisch
+日本語
 
 [NEW_OPTIONS_HELP_MUSICVIDEOLANGUAGE]
 Wähle englischen oder japanischen Gesang samt Untertiteln für das Musikvideo. Standard: Englisch. Gilt beim nächsten Öffnen des Videos; die Oberflächensprache bleibt gleich.
 
 [NEW_OPTIONS_LANGUAGE_FRENCH]
-Französisch
+Français
 
 [NEW_OPTIONS_LANGUAGE_GERMAN]
 Deutsch
 
 [NEW_OPTIONS_LANGUAGE_ITALIAN]
-Italienisch
+Italiano
 
 [NEW_OPTIONS_LANGUAGE_RUSSIAN]
-Russisch
+Русский
 
 [NEW_OPTIONS_LANGUAGE_KOREAN]
-Koreanisch
+한국어
 
 [NEW_OPTIONS_LANGUAGE_DUTCH]
-Niederländisch
+Nederlands
 
 [NEW_OPTIONS_LANGUAGE_BRAZILIAN_PORTUGUESE]
-Portugiesisch (Brasilien)
+Português (Brasil)
 
 [NEW_OPTIONS_LANGUAGE_SWEDISH]
-Schwedisch
+Svenska
+
+[GAMEPAD_DEADZONE_LABEL]
+Totzone ({0}–{1})
+
+[GAMEPAD_DEADZONE_INVALID]
+Die Totzone muss zwischen {0} und {1} liegen.
+
+[CREDITS_LYRIC_LAWN_ZOMBIE]
+Ein Zombie steht auf deinem Rasen
+
+[CREDITS_LYRIC_NO_ZOMBIES]
+Wir wollen keine Zombies auf dem Rasen
+
+[CREDITS_LYRIC_TYPE]
+Ich kenne deinen Typ: groß, finster und tot
+
+[CREDITS_LYRIC_BITE_PETALS]
+Du willst mir alle Blütenblätter vom Kopf beißen
+
+[CREDITS_LYRIC_THEN_BRAINS]
+Und dann das Gehirn von dem fressen,
+
+[CREDITS_LYRIC_PLANTER]
+der mich hier gepflanzt hat
+
+[CREDITS_LYRIC_SUNFLOWER_SEE]
+Ich bin nur eine Sonnenblume, doch sieh,
+
+[CREDITS_LYRIC_INFANTRY]
+wie ich eine ganze Infanterie mit Energie versorge
+
+[CREDITS_LYRIC_LIKE_BRAINS]
+Du magst den Geschmack von Gehirnen
+
+[CREDITS_LYRIC_DISLIKE_ZOMBIES]
+Wir mögen keine Zombies
+
+[CREDITS_LYRIC_REEVALUATE]
+Vielleicht solltest du noch mal nachdenken
+
+[CREDITS_LYRIC_FOOD_PLATE]
+Ich weiß, auf deinem Teller liegt viel Essen
+
+[CREDITS_LYRIC_CHOLESTEROL]
+Gehirne stecken voller Cholesterin
+
+[CREDITS_LYRIC_DEAD]
+Du bist tot, also ist es egal, aber
+
+[CREDITS_LYRIC_SOLAR_POWER]
+Wir nutzen diese Sonnenenergie,
+
+[CREDITS_LYRIC_LAWN_DEFENSE]
+um den Rasen rund um die Uhr zu verteidigen
+
+[CREDITS_LYRIC_ZOMBIES_ARRIVED]
+Die Zombies sind da
+
+[CREDITS_LYRIC_ZOMBIES_LEFT]
+Die Zombies sind fort
+
+[CREDITS_LYRIC_SCARY_SKELETONS]
+Zombies sind gruselige Skelette
+
+[CREDITS_LYRIC_TAKE_PETALS]
+Sie wollen alle Blütenblätter ausreißen
+
+[CREDITS_LYRIC_THEN_HEAD]
+Und dann wollen sie den Kopf
+
+[CREDITS_LYRIC_EAT_IT]
+auffressen
+
+[CREDITS_LYRIC_JUST_SUNFLOWER]
+Ich bin nur eine Sonnenblume
+
+[CREDITS_LYRIC_STRONG]
+Aber ich bin stark
+
+[CREDITS_LYRIC_BACKYARD]
+Ich will im Hinterhof spielen
+
+[CREDITS_LYRIC_STOP_EATING]
+Hört auf, Köpfe zu fressen
+
+[CREDITS_LYRIC_FIGHT_SOLAR]
+Ich kämpfe mit Sonnenenergie,
+
+[CREDITS_LYRIC_SAVE_PLANTS]
+um die Pflanzen zu beschützen
+
+[CREDITS_LYRIC_FOOTBALL]
+Früher habe ich Football gespielt
+
+[CREDITS_LYRIC_CONE]
+Verkehrshütchen schützen meinen Kopf
+
+[CREDITS_LYRIC_SCREEN_DOOR]
+Ich habe einen Fliegengittertür-Schild
+
+[CREDITS_LYRIC_TRICYCLE]
+Mir gefällt dein Dreirad
+
+[CREDITS_LYRIC_BUTTER]
+Auf meinem Kopf klebt Butter
+
+[CREDITS_LYRIC_EAT_BRAINS]
+Ich werde dein Gehirn fressen!
+
+[CREDITS_LYRIC_HELMET]
+Ich habe einen Helm aufgesetzt
+
+[CREDITS_LYRIC_HOLD_SCREEN_DOOR]
+Ich habe auch eine Fliegengittertür dabei
+
+[CREDITS_LYRIC_GIVE_TRICYCLE]
+Gib mir das Dreirad
